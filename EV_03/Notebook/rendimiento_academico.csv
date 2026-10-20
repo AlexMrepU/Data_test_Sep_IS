@@ -1,0 +1,388 @@
+id_estudiante,carrera,semestre,edad,horas_estudio_semana,asistencia_pct,nota_final,trabaja,modalidad,tiene_beca
+E0001,Sistemas de Información,Cuarto,21.0,4.1,77.1,7.42,No,Presencial,Sí
+E0002,Electrónica y Automatización,6,28.0,,79.7,7.97,No,Virtual,No
+E0003,Contabilidad y Auditoría,1,21.0,3.5,88.5,7.15,No,Híbrida,Sí
+E0004, Sistemas de Información,6,22.0,8.7,93.8,7.46,No,Presencial,No
+E0005,Contabilidad y Auditoría,7,28.0,,93.7,8.39,No,Presencial,No
+E0006,Sistemas de Información,6,22.0,11.5,85.9,7.21,No,Presencial,No
+E0007,Electrónica y Automatización,2,19.0,10.3,92.8,7.63,No,Presencial,No
+E0008,Contabilidad y Auditoría,1,20.0,8.9,83.3,6.35,No,Presencial,No
+E0009,Sistemas de Información,7,25.0,1.8,87.9%,6.58,No,Presencial,No
+E0010,Sistemas de Información,8,24.0,1.2,94.3,7.44,No,Virtual,No
+E0011,Electrónica y Automatización,2,20.0,26.8,98.2,10.0,No,Virtual,No
+E0012,Sistemas de Información,6,22.0,13.9,93.0,7.0,sí,Virtual,
+E0013,Contabilidad y Auditoría,7,24.0,3.9,95.1,69.0,Sí,Virtual,No
+E0014,Administración de Empresas,7,28.0,4.5,95.4,6.1,No,Híbrida,No
+E0015,Contabilidad y Auditoría,5,23.0,17.4,96.3,8.77,Sí,Virtual,No
+E0016,Administración de Empresas,5,20.0,2.5,97.2,6.96,No,Presencial,No
+E0017,Sistemas de Información,Quinto,20.0,4.3,69.1,5.71,No,Híbrida,No
+E0018,SISTEMAS DE INFORMACIÓN,1,20.0,8.3,88.5,8.64,No,virtual,No
+E0019,Contabilidad y Auditoría,1,28.0,4.6,90.4,6.27,No,Presencial,
+E0020,Sistemas de Información,5,30.0,168.0,94.9,6.86,Sí,Presencial,No
+E0021,Sistemas de Información,7,21.0,20.8,81.1,6.88,No,Virtual,No
+E0022,Administración de Empresas,5,22.0,2.8,90.7,7.23,No,Presencial,No
+E0023,Sistemas de Información,1,18.0,20.9,92.9,8.56,Sí ,Híbrida,No
+E0024,Electrónica y Automatización,6,19.0,9.2,94.1,6.59,No,Virtual,
+E0025,Sistemas de Información,2,19.0,2.2,92.6,7.1,Sí,Híbrida,No
+E0259,Administración de Empresas,2,24.0,8.9,91.7,7.0,NO,Presencial,No
+E0026,Electrónica y Automatización,5,20.0,16.0,94.6,8.58,Sí,Presencial,No
+E0027,Sistemas de Información,6,19.0,,97.0,6.8,No,Presencial,No
+E0028,Administración de Empresas,5,21.0,17.5,92.2,7.72,No,Presencial,No
+E0029,Sistemas de Información,Primero,20.0,2.4,85.9,7.53,Sí,Presencial,No
+E0030,Administración de Empresas,3,22.0,23.4,94.9,7.49,Sí,Presencial,Sí
+E0031,Administración de Empresas,3,20.0,6.4,,7.61,No,Virtual,No
+E0032,Administración de Empresas,Primero,24.0,10.8,99.4,7.17,Sí,Virtual,No
+E0033,Administración de Empresas,8,19.0,5.1,86.8,,No,Híbrida,No
+E0034,Electrónica y Automatización,2,23.0,3.4,94.8,5.27,No,Presencial,No
+E0035,Administración de Empresas,8,21.0,6.5,91.9,7.81,No,Presencial,No
+E0036,Contabilidad y Auditoría,1,24.0,13.2,91.7,9.09,No,Presencial,No
+E0037,Contabilidad y Auditoría,1,24.0,,86.2,6.88,No , Presencial,No
+E0038,Administración de Empresas,8,23.0,7.2,63.6,6.8,No,Presencial,
+E0039, Contabilidad y Auditoría,Segundo,31.0,16.5,87.8,7.38,Sí,Virtual,No
+E0040,Contabilidad y Auditoría,Tercero,22.0,6.4,92.2,9.26,No,Presencial,No
+E0041,Administración de Empresas,4,21.0,4.3,99.4,6.28,No,Virtual,No
+E0042,Sistemas de Información,3,22.0,1.2,96.1,7.62,No,Presencial,Sí
+E0043,Administración de Empresas,1,25.0,9.2,75.3,6.78,Sí,Presencial,No
+E0044,Sistemas de Información,7,29.0,2.5,79.0,6.06,Sí,Presencial,No
+E0045,ADMINISTRACIÓN DE EMPRESAS,4,26.0,3.2,83.7,8.18,Sí ,Híbrida,No
+E0046,Electrónica y Automatización,3,31.0,12.1,97.3,,No,Virtual,Sí
+E0047,Sistemas de Información,5,23.0,9.0,78.5,7.89,Sí,Presencial,
+E0048,Sistemas de Información,4,190.0,1.9,87.0,5.35,No,Virtual,No
+E0049,Sistemas de Información,3,25.0,8.5,64.2,8.31,No,Presencial,No
+E0050,Sistemas de Información,1,30.0,1.8,93.3,7.25,No,Presencial,No
+E0051,Sistemas de Información,3,30.0,6.6,,6.97,Sí,Presencial,No
+E0052,Electrónica y Automatización,1,20.0,7.2,98.3,,Sí,Virtual,Sí
+E0053,Electrónica y Automatización,3,23.0,14.0,87.8,5.62,Sí,Virtual,Sí
+E0054,Sistemas de Información,5,25.0,4.6,87.3,6.47,No,Híbrida,No
+E0055,Sistemas de Información,1,,13.6,76.7,7.04,No,Presencial,Sí
+E0056,Sistemas de Información,6,,3.5,81.2,5.49,no,Híbrida,Sí
+E0057,Contabilidad y Auditoría,5,22.0,5.2,75.3,6.18,No,Virtual,No
+E0058,Administración de Empresas,1,23.0,4.8,98.0,8.63,Sí,Virtual,No
+E0059,Contabilidad y Auditoría,3,20.0,16.4,99.9,8.41,Sí,Virtual,No
+E0060,Administración de Empresas,Quinto,22.0,3.1,82.5,5.79,Sí,Virtual,No
+E0061,Electrónica y Automatización,3,28.0,3.4,90.9,8.42,Sí,Presencial,No
+E0062,Sistemas de Información,6,,24.6,95.2,9.64,No,Virtual,Sí
+E0063,Sistemas de Información,2,25.0,8.9,74.0,5.82,No,Presencial ,No
+E0064,Contabilidad y Auditoría,Primero,30.0,8.6,95.9,8.92,Sí,Presencial,Sí
+E0065,Contabilidad y Auditoría,1,19.0,11.7,89.0,7.65,Sí,Híbrida,No
+E0066,Electrónica y Automatización,5,27.0,3.6,93.1,8.31,No,Virtual,No
+E0067,Sistemas de Información,5,21.0,5.9,89.4,6.69,Sí,Presencial,Sí
+E0068,Administración de Empresas,7,22.0,10.3,90.2%,8.41,No,Híbrida,No
+E0069,Contabilidad y Auditoría,5,23.0,12.3,87.7,6.6,Sí,Virtual,Sí
+E0070,Electrónica y Automatización,7,21.0,4.4,92.0,8.46,sí,Presencial,Sí
+E0071,Electrónica y Automatización,5,19.0,4.1,77.6,7.68,No,Virtual,No
+E0072,Electrónica y Automatización,7,19.0,9.0,95.1,5.89,Sí,Presencial,
+E0073,Sistemas de Información,1,21.0,2.4,99.5,8.56,Sí,Presencial,No
+E0074,Sistemas de Información,7,20.0,10.4,88.3,,Sí,Presencial,No
+E0075,Electrónica y Automatización,2,27.0,5.6,93.4,75.0,Sí,Híbrida,No
+E0076,sistemas de información,2,22.0,3.1,77.4,5.36,No,Presencial,No
+E0077,Contabilidad y Auditoría,8,19.0,7.8,79.3,6.79,No,Virtual,No
+E0078,Contabilidad y Auditoría,Primero,23.0,14.2,93.9,7.5,Sí,Presencial,No
+E0079,Sistemas de Información,Tercero,21.0,0.7,89.7,8.76,Sí,Virtual,No
+E0080,Sistemas de Información,1,21.0,4.4,94.0,6.94,SÍ,Virtual,No
+E0081,Electrónica y Automatización,5,21.0,9.0,98.4,,Sí,Virtual,No
+E0082,Administración de Empresas,4,26.0,10.1,94.2,7.3,Sí,Presencial,No
+E0083,Sistemas de Información,3,23.0,11.9,97.2,70.0,Sí,Híbrida,Sí
+E0084,Electrónica y Automatización,4,20.0,34.9,97.3,9.93,No,Presencial,No
+E0085,Administración de Empresas ,3,20.0,3.9,61.5,6.77,No,Presencial,No
+E0086,Administración de Empresas,8,25.0,14.2,98.9,7.61,No,Presencial,Sí
+E0087, Contabilidad y Auditoría,2,24.0,12.4,97.2,8.16,Sí,Híbrida,No
+E0088,Administración de Empresas,Séptimo,22.0,13.0,94.4,7.24,Sí,Presencial ,Sí
+E0089,Electrónica y Automatización,5,21.0,1.7,85.3,6.5,No,virtual,No
+E0090,Contabilidad y Auditoría,5,25.0,8.8,99.0,6.46,NO,Presencial,Sí
+E0091,Administración de Empresas,3,19.0,6.7,110.0,7.69,No,Virtual,No
+E0092,Electrónica y Automatización,2,22.0,7.5,96.7,6.82,Sí,Presencial,No
+E0093,Sistemas de Información,2,20.0,2.3,98.8,6.88,Sí,Híbrida,No
+E0094,Contabilidad y Auditoría,3,28.0,7.9,87.4,8.15,SÍ,Presencial,Sí
+E0095,Electrónica y Automatización,5,19.0,4.8,,6.66,No,Presencial,No
+E0096,Administración de Empresas,Primero,19.0,5.4,97.0,8.37,No,Presencial,Sí
+E0097,Electrónica y Automatización,1,24.0,2.8,91.0,7.45,No,híbrida,No
+E0350, Contabilidad y Auditoría,1,22.0,12.7,79.1,7.85,Sí,Virtual,
+E0098,Electrónica y Automatización ,4,21.0,7.1,99.0,8.27,Sí ,Híbrida,No
+E0099,Sistemas de Información,Octavo,23.0,28.6,95.3,6.29,No,Presencial,No
+E0100,Electrónica y Automatización,8,28.0,5.7,86.7,7.18,No,Presencial,Sí
+E0101,Administración de Empresas,3,23.0,0.4,97.3,7.33,No,Híbrida,No
+E0102,Administración de Empresas,2,23.0,6.2,97.8,9.54,No ,Presencial,Sí
+E0103,Sistemas de Información,6,27.0,16.6,96.1,6.01,Sí,Presencial,No
+E0104,Sistemas de Información,8,18.0,14.7,95.5,7.35,Sí,Virtual,Sí
+E0105,Sistemas de Información,5,25.0,6.2,64.3,6.29,No,Híbrida,No
+E0106,Contabilidad y Auditoría,1,24.0,0.6,84.9,6.89,Sí,Virtual,No
+E0107,Contabilidad y Auditoría,5,21.0,24.4,,7.93,No,Virtual,No
+E0108,Sistemas de Información,5,23.0,7.8,91.6,5.89,Sí,Híbrida,Sí
+E0109,Sistemas de Información,4,30.0,3.9,97.9,6.61,No ,Presencial,No
+E0110,CONTABILIDAD Y AUDITORÍA,6,21.0,7.8,96.6,9.06,Sí,Presencial,No
+E0111,Administración de Empresas,3,23.0,4.9,95.9,7.09,No,Virtual,No
+E0112,Administración de Empresas,4,,9.4,80.0,7.96,Si,Presencial,No
+E0113,Sistemas de Información,7,20.0,11.8,89.1,8.79,No,Virtual ,No
+E0114,Electrónica y Automatización,5,19.0,25.3,94.9,7.58,Sí,Presencial,
+E0115,Sistemas de Información,5,20.0,1.7,91.6,7.9,No,Virtual,No
+E0116,Contabilidad y Auditoría,1,23.0,6.1,95.8,6.99,No,Híbrida,No
+E0117,sistemas de información,7,23.0,1.8,97.0,6.84,Sí,Presencial,Sí
+E0118,Administración de Empresas,8,23.0,3.7,82.0,7.09,No,Virtual,No
+E0119,Administración de Empresas,7,19.0,19.8,95.1,9.22,No,Presencial,No
+E0120,Electrónica y Automatización,3,23.0,6.1,86.6,7.03,Sí,Presencial,No
+E0121,Electrónica y Automatización,8,19.0,0.8,62.7,5.73,no,Presencial,No
+E0122,Electrónica y Automatización,6,,2.4,93.8,8.01,No,Presencial,No
+E0123,Administración de Empresas ,2,22.0,1.5,92.6,5.42,Sí,Presencial,No
+E0124,Contabilidad y Auditoría,4,20.0,23.1,98.6,8.78,No,Híbrida,No
+E0125,Contabilidad y Auditoría,4,26.0,15.8,95.6,8.43,No,Presencial,No
+E0126,Contabilidad y Auditoría,4,23.0,21.8,88.6,7.95,No,virtual,
+E0127,Administración de Empresas,3,23.0,7.6,98.7,9.25,Si,Presencial,
+E0128,Electrónica y Automatización,3,,8.8,93.0,7.78,Sí,Híbrida,No
+E0129,Sistemas de Información,1,21.0,15.5,91.4,9.01,Sí,Presencial,No
+E0130,Contabilidad y Auditoría,1,21.0,2.1,93.6,6.98,Sí,Presencial,
+E0115,Sistemas de Información,5,20.0,1.7,91.6,7.9,No,Virtual,No
+E0131,Electrónica y Automatización,3,22.0,2.1,83.1,7.4,No,Presencial,No
+E0366,Sistemas de Información,2,20.0,19.7,96.3%,7.86,No,Presencial,No
+E0132,Sistemas de Información,3,22.0,4.7,80.9,66.0,Sí,Virtual,No
+E0133,Contabilidad y Auditoría,1,25.0,22.5,89.2,8.35,No,Presencial,No
+E0134,Electrónica y Automatización ,8,18.0,4.8,96.4,8.35,NO,Presencial,Sí
+E0135,Electrónica y Automatización,Segundo,21.0,12.4,96.7,9.52,No,Virtual,No
+E0136,Electrónica y Automatización,2,22.0,1.6,83.3,5.44,NO,Virtual,No
+E0137,Administración de Empresas,4,22.0,,96.7,7.76,No,Virtual,No
+E0138,Administración de Empresas,4,31.0,11.7,95.3,,Sí,Presencial,No
+E0139,Sistemas de Información,1,19.0,3.6,96.3,7.67,Sí,PRESENCIAL,No
+E0140,Electrónica y Automatización,4,19.0,14.1,79.9,7.37,No,Híbrida,Sí
+E0141,Administración de Empresas,3,24.0,14.5,89.7%,6.86,Sí,Presencial,No
+E0142,Sistemas de Información,4,24.0,10.9,91.2,6.48,No,Presencial,No
+E0143,Sistemas de Información,7,24.0,6.1,95.2,8.46,No,Presencial,No
+E0144,administración de empresas,8,22.0,6.1,96.4,7.29,Sí,Presencial,No
+E0145,Contabilidad y Auditoría,5,27.0,1.5,99.0,8.14,No,presencial,No
+E0146,Contabilidad y Auditoría,5,25.0,10.3,86.8,,No,Presencial,Sí
+E0147, Electrónica y Automatización,6,22.0,10.3,90.9,5.64,No,Virtual,No
+E0148,Sistemas de Información,2,20.0,9.1,93.4,7.36,No,Presencial,No
+E0149,Electrónica y Automatización,2,19.0,13.0,74.3,8.12,No,Presencial,No
+E0150,Electrónica y Automatización ,2,18.0,36.4,94.9,8.2,No,Virtual,No
+E0151,Administración de Empresas,8,20.0,14.6,,8.31,No,Híbrida,Sí
+E0152,Administración de Empresas,1,25.0,7.4,101.5,7.05,No,Presencial,Sí
+E0153,Administración de Empresas,2,19.0,4.8,87.9,,No,Presencial,Sí
+E0154,administración de empresas,1,24.0,1.6,79.4,7.03,Sí,Presencial,No
+E0155,Contabilidad y Auditoría,2,21.0,13.4,99.6,7.67,No,Presencial,No
+E0156,Sistemas de Información,1,21.0,1.9,99.5,8.12,Sí,Presencial,No
+E0157,Sistemas de Información,2,23.0,5.3,94.0,6.92,No,Presencial,No
+E0158,Sistemas de Información,7,20.0,3.2,92.1,5.77,No,Híbrida,No
+E0159,Sistemas de Información,6,27.0,,89.3,7.87,No,Presencial,Sí
+E0160,Administración de Empresas,3,7.0,1.8,98.9,6.0,No,Presencial,Sí
+E0041,Administración de Empresas,4,21.0,4.3,99.4,6.28,No,Virtual,No
+E0161,Administración de Empresas,5,26.0,7.6,74.0,6.04,Sí,Virtual,No
+E0162,Administración de Empresas,3,19.0,18.9,63.5%,7.29,No,Presencial,No
+E0163,Contabilidad y Auditoría,2,24.0,7.0,98.0,6.85,No,Virtual,No
+E0164,Administración de Empresas,7,23.0,9.9,92.5%,9.13,no, Híbrida,No
+E0165,Sistemas de Información,2,20.0,12.2,92.9,6.23,Sí,PRESENCIAL,No
+E0166,Electrónica y Automatización,8,20.0,13.5,90.2,7.74,SÍ,presencial,No
+E0167,Sistemas de Información,2,21.0,3.2,78.8,5.76,No,Presencial,No
+E0168,Electrónica y Automatización,2,18.0,3.1,60.2,,No,Virtual,No
+E0169,Sistemas de Información,4,19.0,10.6,84.7,6.42,Sí,Presencial,No
+E0170,Contabilidad y Auditoría,3,27.0,2.7,97.0%,7.01,Sí,Virtual,No
+E0171,Electrónica y Automatización,3,23.0,4.8,97.5,9.19,No,Virtual,No
+E0172,Contabilidad y Auditoría,Sexto,26.0,5.0,94.1,6.59,No,virtual,No
+E0173,Administración de Empresas,3,23.0,4.5,94.1,6.23,Sí ,Presencial,No
+E0174,Sistemas de Información,Primero,20.0,15.0,90.8,8.29,Sí,Presencial,No
+E0175,Administración de Empresas,4,20.0,26.3,92.8,6.95,Sí,híbrida,No
+E0176,Contabilidad y Auditoría,Primero,21.0,5.0,92.6,7.25,Sí,presencial,No
+E0177,Administración de Empresas ,2,21.0,28.1,68.5,8.23,No,Presencial,No
+E0178,Administración de Empresas,3,24.0,9.6,86.2,4.5,No,Presencial,No
+E0179,Administración de Empresas,8,27.0,1.0,97.3,6.57,Sí,Virtual,No
+E0180,Sistemas de Información,6,23.0,8.0,81.3,6.91,No,Presencial,No
+E0181,Electrónica y Automatización,6,23.0,4.1,95.1%,5.88,Sí ,Presencial,No
+E0182,Sistemas de Información,Séptimo,20.0,7.8,90.5,7.03,No,Presencial,No
+E0183,Electrónica y Automatización,5,21.0,19.3,97.5,7.66,Sí,Presencial,No
+E0184,Sistemas de Información,4,22.0,,95.1,7.36,Sí,Virtual,No
+E0185,Electrónica y Automatización,6,24.0,15.3,94.3,8.62,No,Presencial,No
+E0186,Sistemas de Información,2,22.0,3.5,95.4,7.76,Sí,PRESENCIAL,No
+E0187,Contabilidad y Auditoría,8,,10.4,94.3,6.54,no,Presencial,Sí
+E0188,Electrónica y Automatización,7,22.0,3.2,79.2,6.49,Sí,Presencial,
+E0189,Sistemas de Información,4,19.0,3.4,94.3,7.55,No,Híbrida,No
+E0190,Sistemas de Información,6,24.0,3.6,84.1,5.28,Sí,Híbrida,
+E0191,Sistemas de Información,4,25.0,,90.7,6.05,No,Virtual,No
+E0192,Sistemas de Información,2,20.0,5.4,77.6,5.86,Sí,Virtual,Sí
+E0193,Administración de Empresas,Tercero,22.0,1.8,81.0,9.26,Sí,Presencial,Sí
+E0194,Electrónica y Automatización,2,,6.3,88.0,7.92,No,Híbrida,No
+E0195,Administración de Empresas,1,19.0,5.0,83.0,8.08,No,Híbrida,No
+E0196,Sistemas de Información,2,22.0,17.9,85.2,8.88,Sí,Híbrida,Sí
+E0197,Administración de Empresas ,3,24.0,168.0,72.8,5.53,Sí,Híbrida,No
+E0198,Administración de Empresas,4,24.0,1.5,70.5,,No,Virtual,No
+E0199,Administración de Empresas,Quinto,19.0,13.2,91.7,8.27,Sí,Virtual,No
+E0200,Electrónica y Automatización,6,22.0,10.1,94.8,6.6,Sí ,Presencial,No
+E0201,Sistemas de Información,3,28.0,7.5,91.0,5.8,Sí,Virtual,Sí
+E0202,Administración de Empresas,8,20.0,0.7,76.6,4.65,Sí,Híbrida,No
+E0203,Contabilidad y Auditoría,6,24.0,7.8,98.2,6.57,Sí,Híbrida,No
+E0204,Sistemas de Información,8,26.0,9.7,82.5%,6.6,No,Presencial,Sí
+E0205,Administración de Empresas ,5,23.0,2.4,91.6,6.91,No,Híbrida,No
+E0206,Contabilidad y Auditoría,2,22.0,12.2,96.6,6.86,Sí,Virtual,Sí
+E0207,Contabilidad y Auditoría,8,20.0,2.8,93.0,7.93,Sí,Presencial,No
+E0208,Sistemas de Información ,3,21.0,7.8,89.2,8.5,Sí,VIRTUAL,No
+E0209,Administración de Empresas,8,,10.8,88.1,6.85,Sí,Presencial,Sí
+E0210,Administración de Empresas,4,22.0,8.1,80.6,8.15,No,Presencial,No
+E0211,Contabilidad y Auditoría,2,20.0,3.4,,7.37,Sí,Presencial,Sí
+E0212,Sistemas de Información,2,20.0,3.9,97.6%,7.19,Sí,Virtual,Sí
+E0213,Sistemas de Información,2,18.0,5.5,98.5,8.33,No,Híbrida,Sí
+E0214,Sistemas de Información,7,22.0,11.3,84.8%,7.0,Sí,Híbrida,No
+E0215,Contabilidad y Auditoría,2,23.0,10.5,75.9,8.19,Sí,Presencial,No
+E0216,Administración de Empresas,3,19.0,10.2,96.0,7.59,Sí,Presencial,No
+E0217,Sistemas de Información,7,22.0,3.8,,5.08,Sí,Presencial,No
+E0218,Sistemas de Información,4,23.0,,99.6,8.26,Sí,Híbrida,No
+E0219,Administración de Empresas,8,22.0,19.5,90.0,7.72,No,Híbrida,
+E0220,Sistemas de Información,2,21.0,-5.0,90.5,7.67,no,Híbrida,Sí
+E0221,Sistemas de Información,1,24.0,4.6,63.4,7.39,Sí,Virtual,
+E0222,Administración de Empresas,7,20.0,11.7,96.7,7.66,No ,Presencial,No
+E0223,Contabilidad y Auditoría,1,,7.2,99.6,7.76,Sí,Presencial,No
+E0224,Sistemas de Información,5,27.0,4.5,93.0,9.98,Sí,Virtual,Sí
+E0225,Electrónica y Automatización,1,24.0,,83.3,7.18,No,PRESENCIAL,Sí
+E0226,Sistemas de Información,1,22.0,3.1,105.0,5.59,No ,Virtual,No
+E0227,Contabilidad y Auditoría,2,30.0,23.5,91.9,7.82,Sí,Presencial,No
+E0245,Electrónica y Automatización,4,20.0,16.4,90.1,8.17,No ,Presencial,No
+E0228,Administración de Empresas,2,22.0,10.0,95.9,9.13,No,Presencial ,No
+E0229,electrónica y automatización,Primero,19.0,4.8,98.7,8.23,No,Presencial,No
+E0230,Electrónica y Automatización,1,20.0,8.9,,7.33,No,Presencial,No
+E0231,Sistemas de Información,5,20.0,2.5,94.1,8.6,No,Híbrida,No
+E0232,Contabilidad y Auditoría,6,23.0,6.2,99.4,6.13,no,Presencial,No
+E0233,Sistemas de Información,4,24.0,5.6,92.5,6.8,No,Presencial,No
+E0234,Electrónica y Automatización,Segundo,29.0,13.7,86.6,8.16,Sí,Presencial,No
+E0235,Contabilidad y Auditoría,2,19.0,10.4,91.2,5.68,No,Presencial,
+E0236,Administración de Empresas,3,21.0,13.5,94.0%,7.77,sí,Presencial,No
+E0237,Administración de Empresas,7,19.0,8.7,99.3,6.98,Sí, Virtual,Sí
+E0238,Administración de Empresas,6,27.0,4.4,87.5,5.84,Sí,Presencial,No
+E0239,electrónica y automatización,2,20.0,6.5,97.7,8.58,Sí,Presencial,No
+E0240,Administración de Empresas,Sexto,23.0,5.2,96.0,6.63,No,Presencial,Sí
+E0241,Sistemas de Información,6,27.0,168.0,89.2,7.61,No,Presencial,No
+E0242,Contabilidad y Auditoría,7,21.0,3.1,94.9%,6.56,Sí,Presencial,No
+E0243,Contabilidad y Auditoría,4,21.0,26.6,95.0,7.67,No ,Presencial,No
+E0244,Contabilidad y Auditoría,8,18.0,0.1,87.6%,6.18,No,Híbrida,No
+E0245,Electrónica y Automatización,4,20.0,16.4,90.1,8.17,No ,Presencial,No
+E0246,Sistemas de Información,2,24.0,12.4,98.6%,7.06,No,Presencial,No
+E0247,Sistemas de Información,Quinto,20.0,2.7,94.3,7.13,No,Virtual,No
+E0248,Contabilidad y Auditoría,1,23.0,2.5,99.8,7.19,Sí,Híbrida,Sí
+E0249,Electrónica y Automatización,5,19.0,16.4,77.8,8.5,Si,Virtual,No
+E0250,Administración de Empresas,Tercero,23.0,2.6,86.3,6.1,No,Virtual,No
+E0251,Sistemas de Información,1,21.0,6.6,89.1,7.84,No,Presencial,No
+E0252,Electrónica y Automatización,1,21.0,9.8,81.0,5.65,No,Presencial,Sí
+E0253,Sistemas de Información,Sexto,19.0,2.1,97.4,7.49,no,presencial,No
+E0254,Electrónica y Automatización,7,20.0,7.4,92.6,5.71,No,Presencial,Sí
+E0255,Electrónica y Automatización,4,19.0,6.0,96.9,7.71,Sí,Híbrida,No
+E0256,Electrónica y Automatización,7,28.0,,94.5,8.85,No,Híbrida,Sí
+E0257,Administración de Empresas,2,19.0,3.7,97.2,8.55,Sí,Presencial,Sí
+E0258,Contabilidad y Auditoría,3,21.0,24.3,91.4,8.64,Sí,Híbrida,No
+E0259,Administración de Empresas,2,24.0,8.9,91.7,7.0,NO,Presencial,No
+E0260, Contabilidad y Auditoría,6,22.0,3.6,92.6,6.14,No,Híbrida,No
+E0261,Sistemas de Información,3,19.0,5.7,69.5%,6.89,Sí,Virtual,No
+E0262,Electrónica y Automatización,3,23.0,7.6,77.2,6.37,SÍ,Híbrida,No
+E0263,CONTABILIDAD Y AUDITORÍA,6,25.0,29.0,98.0,7.68,No,Virtual,No
+E0264,Sistemas de Información,5,18.0,7.4,93.0,8.3,SÍ,Presencial,No
+E0265,Contabilidad y Auditoría,Tercero,29.0,7.7,89.4,6.71,No,Presencial,No
+E0266,Sistemas de Información,1,25.0,4.8,74.7,5.98,No,Virtual,No
+E0267,Administración de Empresas,2,21.0,0.1,80.9,5.24,No,Presencial,No
+E0268,sistemas de información,1,,1.7,97.2,6.53,Sí,Híbrida,Sí
+E0269,Electrónica y Automatización,4,20.0,2.3,85.6%,7.26,NO,Virtual,No
+E0270,Administración de Empresas,8,23.0,7.9,97.4,8.04,No,Presencial,
+E0271,Contabilidad y Auditoría,3,23.0,6.1,85.2,7.01,Sí,Presencial,No
+E0272,Administración de Empresas,3,21.0,16.1,97.9,6.87,No,Presencial,No
+E0273,Sistemas de Información,6,24.0,9.7,98.9,7.52,Sí,Híbrida,No
+E0274,Administración de Empresas,5,21.0,9.2,95.9,8.24,NO,Híbrida,No
+E0275,Administración de Empresas,5,20.0,3.3,97.7%,7.17,No,Presencial,No
+E0276,Electrónica y Automatización,4,20.0,6.6,96.9,7.11,No,Híbrida,No
+E0277,Administración de Empresas,8,24.0,6.3,91.0,7.26,Sí,Presencial,No
+E0278,Electrónica y Automatización,1,20.0,2.4,93.7,7.39,Sí,Híbrida,No
+E0279, Electrónica y Automatización,5,21.0,13.4,98.4,8.39,No,Presencial,
+E0280,Contabilidad y Auditoría,4,23.0,5.2,83.6,7.76,No,Presencial,No
+E0281,Electrónica y Automatización,Quinto,20.0,10.6,94.9,6.87,No,Presencial,No
+E0282,Electrónica y Automatización,6,20.0,3.6,94.1,,No,Presencial,No
+E0283,Sistemas de Información,4,19.0,19.3,61.2%,7.31,No,Presencial,No
+E0284,Sistemas de Información,2,24.0,2.5,89.6,6.69,Sí,Presencial,No
+E0285,Contabilidad y Auditoría,Quinto,24.0,9.0,96.5,7.05,SÍ,Presencial,No
+E0286,Contabilidad y Auditoría,1,19.0,1.0,99.2,7.62,No,Presencial,No
+E0287,Electrónica y Automatización,8,28.0,13.3,78.6,6.26,No,Virtual,No
+E0288,Administración de Empresas,8,26.0,7.8,98.9,,Sí,Virtual,No
+E0289,Contabilidad y Auditoría,8,21.0,1.2,92.4,7.56,Sí,Presencial,Sí
+E0290,Sistemas de Información,1,26.0,5.1,84.8,6.48,Sí,Presencial,
+E0291,Administración de Empresas,2,20.0,1.4,,6.94,No,Presencial,Sí
+E0292, Contabilidad y Auditoría,4,24.0,3.3,98.3,7.01,No,Virtual,No
+E0293,ELECTRÓNICA Y AUTOMATIZACIÓN,8,25.0,5.4,90.0,7.55,No,Presencial,Sí
+E0294,Sistemas de Información,4,19.0,0.9,56.6,6.44,Sí,Virtual,Sí
+E0295,Electrónica y Automatización,3,22.0,11.7,81.0,6.88,No,Presencial,Sí
+E0296,Administración de Empresas,4,21.0,22.2,99.7,9.33,Sí,Presencial,Sí
+E0297,Administración de Empresas,3,22.0,14.7,90.3,4.87,No,Virtual,No
+E0298,Administración de Empresas,2,22.0,20.9,92.2%,6.42,No,Híbrida,No
+E0299,Administración de Empresas,6,21.0,10.1,97.3%,7.91,No,Presencial,No
+E0300,Sistemas de Información,5,22.0,,85.1,7.31,Sí,Híbrida,No
+E0301,Electrónica y Automatización,3,19.0,6.5,84.0%,7.2,No ,Virtual,No
+E0302,Sistemas de Información ,7,25.0,2.0,46.2,5.68,No,Presencial,Sí
+E0303,Sistemas de Información,4,28.0,-5.0,93.3,8.99,No,Híbrida,No
+E0304,Electrónica y Automatización,2,20.0,5.8,98.4,7.43,Sí,Presencial,No
+E0305,Sistemas de Información,Segundo,21.0,17.4,75.8,7.08,Sí,Híbrida,No
+E0306,Sistemas de Información,1,22.0,,94.2,6.01,No,Presencial,No
+E0307,Sistemas de Información ,3,21.0,4.0,120.0,8.1,No,Virtual,No
+E0308,Sistemas de Información,5,23.0,1.6,81.7,6.55,No,Presencial,No
+E0309,Electrónica y Automatización,8,22.0,11.7,88.4,7.48,sí,Presencial,No
+E0310,Contabilidad y Auditoría,5,21.0,3.1,91.2,8.02,No,Presencial,No
+E0311,Electrónica y Automatización,6,21.0,6.2,92.4%,7.02,Sí,Virtual,No
+E0312,Electrónica y Automatización ,3,19.0,7.2,88.4,6.7,Sí, Virtual,No
+E0313,Administración de Empresas,3,20.0,5.3,89.9,6.56,Sí,Híbrida,No
+E0314,Electrónica y Automatización,Tercero,23.0,10.3,84.3,7.17,NO,Presencial,No
+E0315,Administración de Empresas,Segundo,23.0,7.6,94.5,9.2,Sí,Presencial,No
+E0316,Administración de Empresas,4,26.0,6.0,82.5,6.56,No,Presencial,No
+E0317, Sistemas de Información,Quinto,20.0,8.2,96.7,8.94,No,Presencial,No
+E0318,Sistemas de Información,3,21.0,4.6,74.8,,NO,Virtual,No
+E0319,Administración de Empresas,5,24.0,9.8,98.3,7.87,Sí,Híbrida,No
+E0320,Electrónica y Automatización,6,20.0,1.3,99.4,8.18,No,Híbrida,No
+E0321,Electrónica y Automatización,Primero,21.0,8.2,98.4,6.92,Sí,Virtual,No
+E0322,Contabilidad y Auditoría,2,19.0,7.5,83.2,8.4,No,Presencial,No
+E0323,Administración de Empresas,Primero,19.0,0.9,96.4,6.51,No,Presencial,Sí
+E0324,Sistemas de Información,4,21.0,18.4,92.0,7.49,Sí,Virtual,No
+E0325,Contabilidad y Auditoría,Séptimo,22.0,1.3,88.1,7.6,No,Virtual,Sí
+E0326,Electrónica y Automatización,5,18.0,12.6,97.1,7.99,Sí,Presencial,
+E0327,Sistemas de Información,Octavo,27.0,7.1,91.3,7.03,No,Presencial,No
+E0328,sistemas de información,4,21.0,5.1,90.1,7.1,NO,Híbrida,No
+E0329,Administración de Empresas,3,25.0,3.6,92.7,7.77,No,Presencial,No
+E0330,Administración de Empresas,8,28.0,12.1,87.7,7.32,No,PRESENCIAL,No
+E0331,Contabilidad y Auditoría,2,23.0,9.9,96.8,6.83,Sí, Virtual,No
+E0332,CONTABILIDAD Y AUDITORÍA,2,19.0,9.4,92.1,7.34,No,Virtual,No
+E0333,Contabilidad y Auditoría,Quinto,19.0,3.8,89.0,6.73,Sí,Presencial,No
+E0334,Sistemas de Información,3,25.0,10.6,82.0,7.98,Sí,Virtual,No
+E0335,Sistemas de Información,3,21.0,12.0,93.7,7.65,no,Presencial,
+E0322,Contabilidad y Auditoría,2,19.0,7.5,83.2,8.4,No,Presencial,No
+E0336,Contabilidad y Auditoría,Cuarto,21.0,6.3,87.3,7.25,Sí,Presencial,No
+E0337,Contabilidad y Auditoría,Cuarto,30.0,2.4,76.3,4.93,Sí,Virtual,No
+E0338,Sistemas de Información,4,21.0,10.4,97.6,7.43,Sí ,Presencial,No
+E0339,Administración de Empresas,4,20.0,10.1,,7.89,Sí,Virtual,No
+E0340,Electrónica y Automatización,5,22.0,17.0,98.5%,7.48,No,Presencial,No
+E0341,Administración de Empresas,1,22.0,10.0,76.3%,6.41,No,VIRTUAL,No
+E0342,Sistemas de Información,Sexto,20.0,1.0,97.2,6.59,No,Presencial,No
+E0343,Administración de Empresas,Quinto,22.0,4.2,85.1,6.99,Sí,Presencial,No
+E0344,Sistemas de Información,4,20.0,1.7,81.1,5.78,Sí,Virtual,No
+E0345,Electrónica y Automatización,6,22.0,27.8,94.4%,10.0,No,Híbrida,No
+E0346,Sistemas de Información,2,20.0,29.2,88.5,7.37,No,Presencial,No
+E0347,Sistemas de Información,2,29.0,9.0,92.1,,Sí,virtual,No
+E0348,Sistemas de Información,3,28.0,11.2,86.8%,6.95,Sí,Presencial,No
+E0349,Contabilidad y Auditoría,Segundo,23.0,5.5,80.2,7.8,No,Híbrida,No
+E0350, Contabilidad y Auditoría,1,22.0,12.7,79.1,7.85,Sí,Virtual,
+E0351,Administración de Empresas,1,20.0,8.2,93.8,8.33,No,Virtual,Sí
+E0352,Sistemas de Información,3,22.0,9.5,91.5,8.42,Sí, Virtual,No
+E0353,Administración de Empresas,4,29.0,6.4,94.5,7.12,Sí,Presencial,
+E0354,Administración de Empresas,7,25.0,0.5,95.5,7.97,SÍ,Híbrida,No
+E0355,electrónica y automatización,4,21.0,,95.4,8.23,Sí,Híbrida,No
+E0356,Contabilidad y Auditoría,4,27.0,1.4,87.6,7.56,No,Presencial,Sí
+E0357,Contabilidad y Auditoría,3,20.0,6.7,91.5,8.24,No,Presencial,No
+E0358,Sistemas de Información,6,22.0,1.0,83.5,5.17,Sí,Presencial,Sí
+E0359,Administración de Empresas,2,26.0,3.4,92.0%,7.06,Sí,virtual,No
+E0360,Sistemas de Información,6,21.0,2.2,77.4%,6.28,No,Presencial,No
+E0361,Contabilidad y Auditoría,8,25.0,3.9,96.0,5.57,No,Virtual,Sí
+E0362,Contabilidad y Auditoría,Octavo,20.0,15.3,95.9,7.82,Sí,Presencial,No
+E0363,Electrónica y Automatización,6,20.0,,85.8,7.7,No, Presencial,No
+E0364,Administración de Empresas,4,24.0,4.6,92.9,7.69,Sí ,Presencial,No
+E0365,Contabilidad y Auditoría,3,24.0,12.3,71.4,6.17,Sí ,Virtual,No
+E0366,Sistemas de Información,2,20.0,19.7,96.3%,7.86,No,Presencial,No
+E0367,Electrónica y Automatización,3,27.0,4.9,83.6,7.48,No,Presencial,No
+E0368,Sistemas de Información,6,20.0,12.6,92.1,6.11,No,Presencial,No
+E0369,Sistemas de Información,1,22.0,6.8,77.5,7.34,Sí,Híbrida,No
+E0370,Electrónica y Automatización,2,21.0,7.7,91.0,6.48,Sí,Presencial,No
+E0371,Contabilidad y Auditoría,8,23.0,9.1,90.2,8.0,No,Presencial,No
+E0372,Sistemas de Información,3,22.0,3.4,90.5,8.08,Sí,Virtual,
+E0373,Sistemas de Información,4,23.0,5.7,,7.78,Sí,Presencial,Sí
+E0374,Contabilidad y Auditoría ,6,21.0,2.1,87.4,,Sí,Virtual,No
+E0375,Sistemas de Información,3,27.0,6.2,80.3%,7.14,Sí,Presencial,Sí
+E0376,Electrónica y Automatización,1,20.0,20.4,92.3,7.78,No,Presencial,No
+E0377,Administración de Empresas,Quinto,19.0,6.7,96.0,6.35,No,Virtual,No
+E0378,Electrónica y Automatización,7,22.0,15.6,89.9,5.92,Sí,Virtual,No
+E0379,administración de empresas,8,21.0,11.6,97.8,7.81,No,Presencial,No
+E0380,Electrónica y Automatización,5,24.0,2.8,95.6,7.34,Sí,Híbrida,No

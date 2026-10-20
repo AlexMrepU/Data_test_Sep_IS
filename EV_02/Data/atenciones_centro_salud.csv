@@ -1,0 +1,427 @@
+id_atencion,fecha_atencion,edad,sexo,area_atencion,tiempo_espera_min,duracion_consulta_min,temperatura_c,tipo_seguro,satisfaccion
+A0001,01/09/2026,23,Femenino,Emergencia,16.0,24.0,37.2, IESS,
+A0002,01/09/2026,29,Femenino,Medicina general,29.0,18.0,36.8,Privado,5.0
+A0003,01/09/2026,37,Masculino,Medicina general,49.0,12.0,36.5,Privado,5.0
+A0004,2025-09-12,11,f, Pediatría,12.0,13.0,36.8,Sin seguro,5.0
+A0005,2026-09-01,35,Masculino , Medicina general,28.0,15.0,37.0,Público,5.0
+A0006,2026-09-01,2,Masculino, Emergencia,12.0,27.0,36.1,IESS,
+A0007,2026-09-01,52,Femenino,Odontología,40.0,27.0,36.2,Privado,
+A0008,2026-09-01,14,Masculino,Odontología,,29.0,36.6,IESS,5.0
+A0009,01/09/2026,22,masculino,Odontología,23.0,28.0,36.5,IESS,4.0
+A0010,01/09/2026,73,Masculino,Emergencia,21.0,24.0,36.5,Sin seguro,4.0
+A0011,2026-09-01,21,Masculino,Emergencia,22.0,26.0,36.7,Público,5.0
+A0012,2026-09-01,34,Masculino,Medicina general,9.0,7.0,36.6,Público,
+A0013,2026-09-01,60,Femenino,Medicina general,47.0,10.0,36.4,PÚBLICO,4.0
+A0014,01/09/2026,31,Femenino,Medicina general,25.0,20.0,,IESS,4.0
+A0015,01/09/2026,45,Femenino,Medicina general,26.0,14.0,37.0,IESS,5.0
+A0016,2026-09-02,38,Femenino,Odontología,21.0,20.0,36.6,Público,5.0
+A0017,2026-09-02,48,f,Medicina general,13.0,11.0,36.2,Público,3.0
+A0018,2026-09-02,4,Masculino,Pediatría,30.0,23.0,36.9,iess,4.0
+A0019,2026-09-02,38,Masculino,Odontología,54.0,29.0,36.8,IESS,
+A0020,2026-09-02,1 años,Masculino,Pediatría,19.0,16.0,36.3,IESS,4.0
+A0021,2026-09-02,,Masculino,Pediatría,10.0,18.0,36.3,Público,5.0
+A0022,2026-09-02,28,Femenino,Ginecología,98.0,18.0,36.4,Público,4.0
+A0023,02/09/2026,30,Femenino,Emergencia,14.0,30.0,37.6,Privado,5.0
+A0024,2026-09-02,24,Femenino,Ginecología,38.0,30.0,36.0,Privado,
+A0025,2026-09-02,2,Masculino,Pediatría,22.0,17.0,36.4,Público,5.0
+A0026,2026-09-03,54,Masculino,Medicina general,53.0,9.0,36.7,Privado,3.0
+A0027,03/09/2026,58,Masculino,Medicina general,28.0,12.0,36.1,IESS,5.0
+A0028,2025-09-12,50,Femenino,Odontología,25.0,30.0,36.5, Público,4.0
+A0029,2026-09-03,33,Masculino,Odontología,31.0,27.0,36.3,Privado,
+A0030,03/09/2026,28,Masculino, Medicina general,400.0,8.0,36.2,IESS,1.0
+A0031,03/09/2026,51,Masculino,Emergencia,9.0,26.0,36.9,Público,4.0
+A0032,2026-09-03,45,Femenino,Odontología,,33.0,36.9,Sin seguro,5.0
+A0033,2026-09-03,53 años,Masculino,Medicina general,50.0,19.0,36.9,IESS,5.0
+A0034,2026-09-03,66,Femenino,Emergencia,13.0,22.0,36.8,IESS,5.0
+A0035,2026-09-03,44,Masculino,Emergencia,14.0,24.0,38.2,Público,4.0
+A0036,2026-09-03,43,F,Odontología,32.0,35.0,36.9,Sin seguro,5.0
+A0037,2026-09-03,25,Masculino,Ginecología,36.0,21.0,36.4,IESS,4.0
+A0038,2026-09-03,6,Masculino,pediatría,87.0,22.0,36.5,Público,3.0
+A0039,2026-09-03,1,Masculino,Pediatría,9.0,14.0,36.7,IESS,5.0
+A0040,2026-09-03,37,Femenino,Ginecología,30.0,24.0,,Público,4.0
+A0041,2026-09-03,37,Femenino,Medicina general,14.0,23.0,36.6,Sin seguro,5.0
+A0042,2026-09-03,33,Femenino,Medicina general,34.0,4.0,36.8,Sin seguro,5.0
+A0043,2026-09-03,62,Masculino,Emergencia,,23.0,38.1,IESS,5.0
+A0044,2026-09-03,25,Femenino,Ginecología,32.0,19.0,36.8,IESS,4.0
+A0045,2026-09-04,31,Femenino, Medicina general,35.0,20.0,36.7,IESS,3.0
+A0046,04/09/2026,45,Femenino,Medicina general,10.0,14.0,36.4,IESS,5.0
+A0047,2026-09-04,17,Masculino ,Medicina general,31.0,13.0,99.1,público,4.0
+A0048,2026-09-04,38,Femenino,Ginecología,46.0,25.0,36.6,IESS,5.0
+A0049,2026-09-04,22,Femenino,Odontología,31.0,30.0,36.3,Público,
+A0050,2026-09-04,29,Masculino,Odontología,83.0,28.0,36.8,IESS,5.0
+A0051,2026-09-04,4,Masculino,Pediatría,146.0,21.0,36.8,Público,
+A0052,2026-09-04,13,Femenino,Pediatría,48.0,13.0,,Público,5.0
+A0053,2026-09-04,7,M,Pediatría,23.0,18.0,36.6,IESS,4.0
+A0054,2026-09-04,11,Femenino,Pediatría ,31.0,26.0,37.0,Sin seguro,4.0
+A0055,2026-09-04,,Masculino,Medicina general,35.0,15.0,36.7,Sin seguro,5.0
+A0056,2026-09-04,44,Femenino,Medicina general,52.0,11.0,36.5,Público,3.0
+A0057,2026-09-04,37,Masculino,Emergencia,29.0,30.0,36.3,IESS,4.0
+A0058,2026-09-04,63,Masculino,Medicina general,18.0,16.0,36.6,IESS,4.0
+A0059,2026-09-04,33,Femenino,Medicina general,136.0,5.0,36.3,IESS,4.0
+A0060,2026-09-04,29,Femenino,Ginecología,22.0,23.0,37.5,IESS,3.0
+A0061,04/09/2026,67,Femenino,MEDICINA GENERAL,55.0,16.0,36.3, Sin seguro,
+A0062,2026-09-07,28,Masculino,odontología,16.0,25.0,36.7,Público,5.0
+A0063,07/09/2026,24,f, Ginecología,21.0,25.0,36.5,IESS,4.0
+A0064,2026-09-07,40,Masculino,Medicina general,29.0,16.0,36.4, IESS,3.0
+A0065,2026-09-07,91,Femenino,Medicina general,43.0,16.0,36.5,Público,4.0
+A0066,2026-09-07,35,f,Odontología,20.0,35.0,36.3,Privado,5.0
+A0067,2026-09-07,32,Masculino,Odontología,11.0,32.0,36.5,Público,5.0
+A0068,2026-09-07,40,Masculino,Odontología,10.0,25.0,36.2,IESS,5.0
+A0069,2026-09-07,26,Femenino,Ginecología,73.0,22.0,36.4,Sin seguro,
+A0070,2026-09-07,59,Femenino,Medicina general,24.0,13.0,36.3,Sin seguro,
+A0071,2026-09-07,13,Femenino,Pediatría,13.0,19.0,37.1,Sin seguro,
+A0072,2026-09-07,67,Masculino,Medicina general,146.0,14.0,36.7,Sin seguro,1.0
+A0073,07/09/2026,14,masculino,Pediatría,52.0,12.0,36.4,IESS,
+A0074,2026-09-07,54,Femenino,Odontología,310.0,32.0,36.8,Público,2.0
+A0075,2026-09-07,40,Femenino,Ginecología,23.0,20.0,36.4,PRIVADO,4.0
+A0076,2026-09-07,10,Masculino,Pediatría,37.0,24.0,36.1,Privado,4.0
+A0077,07/09/2026,57,Masculino,EMERGENCIA,11.0,17.0,37.8,IESS,5.0
+A0078,2026-09-07,3,Masculino,Emergencia,11.0,29.0,38.6,Público,5.0
+A0079,2026-09-07,16,Femenino,Medicina general,,20.0,36.2,IESS,2.0
+A0080,2026-09-07,6,FEMENINO,pediatría,105.0,14.0,36.8,IESS,3.0
+A0081,2026-09-07,2,Femenino,Pediatría,36.0,19.0,36.9,IESS,5.0
+A0082,2026-09-07,34,Femenino,Ginecología,34.0,17.0,36.5,IESS,5.0
+A0083,2026-09-07,38,Femenino,Medicina general,17.0,9.0,36.7,IESS,5.0
+A0084,2026-09-07,44,Masculino,Emergencia,35.0,27.0,,Público,5.0
+A0085,2026-09-07,37,Femenino,Odontología,43.0,39.0,36.6,Público,5.0
+A0086,2026-09-07,6,Masculino,Pediatría,35.0,22.0,36.3,Privado,4.0
+A0087,2026-09-07,50,Femenino,Medicina general,30.0,13.0,,IESS,5.0
+A0088,2026-09-07,9,Masculino,Emergencia,15.0,25.0,36.5,IESS,5.0
+A0089,2026-09-07,10,Masculino,Pediatría,10.0,20.0,36.8,Sin seguro,3.0
+A0090,2026-09-07,40,Femenino,Ginecología,13.0,24.0,36.7,Público,5.0
+A0091,2026-09-07,53,Femenino,Medicina general,36.0,17.0,36.8, Público,5.0
+A0092,2026-09-07,41,Femenino,Odontología,29.0,36.0,36.4,IESS,
+A0093,2026-09-07,27,Femenino ,ginecología,103.0,23.0,,IESS,2.0
+A0094,2026-09-07,42,Femenino,Medicina general,56.0,13.0,36.5,Público,5.0
+A0095,2026-09-07,87,M,Medicina general,35.0,20.0,36.7,IESS,4.0
+A0096,2026-09-07,75,Masculino,Medicina general,78.0,17.0,36.6,IESS,4.0
+A0097,2026-09-07,62,Masculino,Medicina general,86.0,9.0,36.0,Público,4.0
+A0098,2026-09-08,7,Femenino,Pediatría,45.0,25.0,369.0,IESS,4.0
+A0099,2026-09-08,36,Femenino,Medicina general,16.0,18.0,37.0,IESS,4.0
+A0194,2026-09-14,29,Masculino,Odontología,42.0,35.0,36.7,Público,5.0
+A0100,2026-09-08,56,Femenino,Odontología,46.0,31.0,36.9,Privado,3.0
+A0101,2026-09-08,10,Femenino,Pediatría,33.0,16.0,36.5,IESS,
+A0102,2026-09-08,23,Femenino,Ginecología,,19.0,36.5,Sin seguro,4.0
+A0103,2026-09-08,33,Masculino,Emergencia,6.0,27.0,,Público,5.0
+A0104,08/09/2026,46,Masculino,Emergencia,13.0,23.0,37.2,IESS ,
+A0105,2026-09-08,54,Masculino,Medicina general,,10.0,36.8,IESS,3.0
+A0106,08/09/2026,56,Masculino,Medicina general,35.0,24.0,36.9,IESS,5.0
+A0107,2026-09-08,19,Femenino,Ginecología,61.0,24.0,36.7,Público,
+A0108,2026-09-08,51,Femenino ,Medicina general,26.0,8.0,36.3,Sin seguro,5.0
+A0109,2026-09-08,57,Femenino,Emergencia,28.0,29.0,35.6,Público,5.0
+A0110,2026-09-08,55,Masculino,Emergencia,16.0,23.0,38.3,Sin seguro,5.0
+A0111,2026-09-08,4,M,Pediatría,6.0,21.0,37.1,IESS,5.0
+A0112,2026-09-08,7,Masculino,Pediatría,38.0,15.0,37.2,Privado,4.0
+A0406,2026-09-30,6,Femenino,PEDIATRÍA,43.0,26.0,36.6,Público,
+A0113,2026-09-08,19,Masculino ,Emergencia,13.0,27.0,37.0,Sin seguro,
+A0114,08/09/2026,40,Masculino,MEDICINA GENERAL,54.0,19.0,36.5,Privado,4.0
+A0115,2026-09-08,38,Femenino,Odontología,9.0,38.0,37.3,IESS,
+A0116,2026-09-08,71,Masculino,Medicina general,14.0,16.0,37.1,Sin seguro,5.0
+A0117,2026-09-08,79,Femenino,Medicina general,56.0,11.0,36.4,Público,5.0
+A0118,2026-09-08,9,Femenino,Pediatría,98.0,20.0,36.9,IESS,5.0
+A0119,2026-09-09,65,Masculino,Medicina general,16.0,18.0,36.8,IESS,5.0
+A0120,2026-09-09,8,Femenino,Pediatría,24.0,18.0,37.0,IESS,5.0
+A0121,2026-09-09,53,Masculino,Odontología,,28.0,35.9,Público ,5.0
+A0122,2026-09-09,32,m,Odontología,54.0,26.0,36.7,Sin seguro,5.0
+A0123,2026-09-09,28,Femenino,Ginecología ,67.0,16.0,36.3,Público,
+A0124,2026-09-09,0,Masculino,Pediatría,,12.0,37.1,Público,4.0
+A0125,2026-09-09,44,Femenino,ODONTOLOGÍA,15.0,39.0,36.4,Privado,4.0
+A0126,2026-09-09,4,Masculino ,Pediatría,53.0,20.0,36.5,Privado,5.0
+A0127,2026-09-09,9,femenino,Pediatría,24.0,21.0,36.6,IESS ,5.0
+A0128,2026-09-09,22,Masculino,Medicina general,35.0,6.0,36.9,IESS,
+A0129,2026-09-09,38,Femenino,Medicina general,65.0,16.0,36.6,Privado,5.0
+A0130,2026-09-09,12,Masculino,Pediatría,23.0,13.0,366.0,Público,5.0
+A0315,2026-09-23,53,m,Medicina general,26.0,27.0,37.2,Sin seguro,5.0
+A0131,2026-09-09,8,Masculino,Pediatría,63.0,18.0,36.4,Privado,
+A0132,09/09/2026,48,Masculino, Medicina general,28.0,21.0,36.6,IESS,
+A0133,2026-09-09,71,Femenino,Medicina general,50.0,10.0,36.4,IESS,4.0
+A0134,2026-09-09,27,Femenino,Ginecología,76.0,28.0,36.6,IESS,4.0
+A0135,2026-09-09,31,Femenino,Ginecología,62.0,18.0,36.6,Privado,5.0
+A0136,2026-09-09,33,Masculino,Medicina general,37.0,10.0,35.9,Público,
+A0137,2026-09-09,68,Masculino,Medicina general,41.0,9.0,36.7,Privado,
+A0247,2026-09-17,43,Femenino,Medicina general,17.0,25.0,35.6,Público,4.0
+A0138,2026-09-10,17,f,Odontología,21.0,34.0,36.5,Sin seguro,5.0
+A0139,2026-09-10,1,Femenino,Pediatría,48.0,16.0,35.8,Público,4.0
+A0140,2026-09-10,66,Femenino,Medicina general,22.0,10.0,36.8,IESS,
+A0141,10/09/2026,29,Femenino,Odontología,79.0,30.0,36.5,Sin seguro,5.0
+A0142,2026-09-10,40,Femenino,Medicina general,12.0,16.0,36.6, IESS,5.0
+A0143,2026-09-10,26,Femenino,Ginecología,31.0,16.0,,Público,5.0
+A0144,2026-09-10,8,Femenino,Pediatría,137.0,20.0,36.5,sin seguro,
+A0145,2026-09-10,3,Femenino,Pediatría ,24.0,8.0,36.9,IESS,5.0
+A0146,2026-09-10,34,Femenino,Ginecología,88.0,24.0,,Sin seguro,3.0
+A0147,10/09/2026,,Femenino,Emergencia,21.0,34.0,37.6,Privado,5.0
+A0148,2026-09-10,47,Masculino,Medicina general,20.0,11.0,36.7,Público,4.0
+A0149,2026-09-10,40,f,Medicina general,34.0,23.0,36.3,Público,4.0
+A0150,2026-09-10,67,Masculino,Medicina general,25.0,20.0,36.1,IESS,
+A0151,2026-09-10,10,masculino,Pediatría,21.0,11.0,36.5, IESS,5.0
+A0152,2026-09-10,57,Masculino,Emergencia,11.0,27.0,36.8,iess,
+A0153,2026-09-10,2,Masculino,Pediatría,17.0,23.0,36.9,Público,4.0
+A0154,2026-09-10,14,Masculino ,Pediatría,98.0,15.0,36.4,IESS,5.0
+A0155,2026-09-11,20,Masculino,Medicina general,11.0,7.0,36.6,Privado,3.0
+A0156,2026-09-11,16,Femenino,Medicina general,36.0,22.0,36.4,IESS,4.0
+A0157,2026-09-11,27,Masculino,Odontología,41.0,24.0,36.1,Sin seguro,5.0
+A0158,2026-09-11,48,Femenino,Medicina general,25.0,22.0,36.6,público,3.0
+A0159,11/09/2026,4,Femenino,Pediatría,27.0,12.0,36.7,Sin seguro,5.0
+A0160,2026-09-11,48,Masculino,Odontología,38.0,32.0,36.4,Público ,5.0
+A0161,2026-09-11,69,Femenino,Medicina general,185.0,19.0,36.2,Público,3.0
+A0162,2026-09-11,,masculino,Odontología,15.0,27.0,36.4,IESS,4.0
+A0163,11/09/2026,29,Femenino,Ginecología,160.0,20.0,36.2,Público,4.0
+A0164,2026-09-11,11,Masculino,Pediatría,11.0,13.0,36.6, IESS,4.0
+A0165,2026-09-11,20,Femenino,GINECOLOGÍA,29.0,23.0,36.6,IESS,5.0
+A0166,2026-09-11,80,Femenino, Emergencia,18.0,23.0,37.5,Privado,5.0
+A0167,2026-09-11,33,Femenino, Odontología,11.0,31.0,36.6,Público,5.0
+A0168,2026-09-11,82,Femenino,Medicina general,32.0,22.0,36.6,Sin seguro,3.0
+A0169,2026-09-14,9,Masculino,Pediatría,16.0,9.0,37.1,Privado,5.0
+A0170,14/09/2026,12,Masculino,Pediatría,28.0,21.0,,IESS,4.0
+A0171,2026-09-14,71,Masculino,Emergencia,18.0,25.0,37.2,Público,5.0
+A0172,2026-09-14,47,Femenino,Medicina general,46.0,5.0,36.5,IESS,4.0
+A0173,2026-09-14,35,Femenino,Odontología,37.0,36.0,36.6,IESS,3.0
+A0174,2026-09-14,16,Masculino,Medicina general,15.0,21.0,37.2,Privado,4.0
+A0175,2026-09-14,74,Femenino,Medicina general,44.0,14.0,36.3,IESS,4.0
+A0176,2026-09-14,27,Masculino,Medicina general ,27.0,20.0,36.9,IESS,4.0
+A0177,2026-09-14,23,Femenino,Emergencia,48.0,27.0,37.0,IESS,5.0
+A0178,14/09/2026,28,Masculino,Medicina general,81.0,17.0,37.2,Público,5.0
+A0179,14/09/2026,40,m,Medicina general,20.0,17.0,36.7,Sin seguro,5.0
+A0180,2026-09-14,20,Femenino,Ginecología,26.0,30.0,36.4,Público,4.0
+A0181,2026-09-14,-3,Femenino,Pediatría,32.0,22.0,36.2, IESS,5.0
+A0182,2026-09-14,6,m,pediatría,47.0,11.0,36.8,PÚBLICO,5.0
+A0183,2026-09-14,26,Femenino,Ginecología,30.0,31.0,36.7,Público,5.0
+A0184,14/09/2026,55,Femenino,Medicina general,29.0,17.0,36.6,Público,5.0
+A0185,2026-09-14,9,FEMENINO,Pediatría ,27.0,6.0,36.6,IESS,
+A0186,2026-09-14,42,F,Medicina general,10.0,8.0,36.9,Público,4.0
+A0187,2026-09-14,78,Femenino,Medicina general,20.0,14.0,36.7,IESS,5.0
+A0188,2026-09-14,30,Femenino,Odontología,46.0,31.0,37.1, IESS,5.0
+A0189,2026-09-14,5,Masculino,Pediatría,112.0,21.0,36.7,Público,3.0
+A0190,2026-09-14,11,Masculino,pediatría,46.0,17.0,36.4,público,5.0
+A0191,2026-09-14,66,Femenino,Medicina general,39.0,10.0,36.4,Público,
+A0192,2026-09-14,5,Femenino,Pediatría,19.0,8.0,37.0,Público,3.0
+A0193,14/09/2026,14,Femenino,Pediatría,29.0,8.0,36.8,IESS,5.0
+A0194,2026-09-14,29,Masculino,Odontología,42.0,35.0,36.7,Público,5.0
+A0195,2026-09-14,46,Femenino,Medicina general,86.0,16.0,36.4,Público,4.0
+A0196,2026-09-14,13,Femenino,Pediatría,43.0,23.0,36.1,iess,4.0
+A0197,2026-09-14,9,Masculino,Pediatría,43.0,16.0,36.6,Privado,4.0
+A0198,2026-09-15,55,Femenino,Medicina general,8.0,20.0,36.5,IESS,5.0
+A0199,2026-09-15,36,Masculino ,Medicina general,116.0,23.0,36.4,Privado,
+A0200,2026-09-15,19,Femenino,Odontología,16.0,32.0,36.8,Privado,5.0
+A0201,15/09/2026,36,F,Ginecología,14.0,23.0,36.2,Sin seguro,5.0
+A0202,15/09/2026,5,Femenino,Pediatría,6.0,17.0,36.5,Sin seguro,5.0
+A0203,15/09/2026,6,FEMENINO,Pediatría,23.0,11.0,36.7,IESS,5.0
+A0204,2026-09-15,63,Femenino,Medicina general,35.0,15.0,36.7,Público,
+A0205,2026-09-15,26,Femenino,Ginecología,15.0,20.0,36.9,IESS,4.0
+A0206,15/09/2026,59,Femenino,Emergencia,30.0,31.0,37.8,IESS,
+A0312,2026-09-23,28,Femenino,Ginecología,132.0,21.0,35.7,Público,4.0
+A0207,2026-09-15,25,Femenino,Emergencia,11.0,25.0,36.8,IESS,5.0
+A0208,15/09/2026,10,Masculino,Pediatría,49.0,22.0,,Público ,5.0
+A0209,2026-09-15,28,Masculino,Medicina general,99.0,15.0,36.5,Público,3.0
+A0210,2026-09-15,54,Femenino,Medicina general,41.0,17.0,37.1,sin seguro,4.0
+A0211,2026-09-15,29,Masculino,Ginecología,76.0,13.0,36.6,IESS,
+A0212,15/09/2026,8,Femenino,Pediatría,112.0,16.0,36.6,Privado,3.0
+A0213,2026-09-15,64,MASCULINO,Medicina general,132.0,7.0,36.5,Sin seguro,3.0
+A0214,2026-09-15,83,Femenino,Medicina general ,8.0,21.0,,IESS,5.0
+A0215,2026-09-15,75,Masculino,Emergencia,6.0,38.0,37.1,IESS,5.0
+A0216,2026-09-15,16,Femenino,Ginecología,49.0,23.0,36.8,Público,
+A0217,2026-09-15,66,Masculino,Emergencia,41.0,24.0,38.8,Público,4.0
+A0218,2026-09-15,64,Masculino,Medicina general,16.0,13.0,36.4,Público,
+A0219,15/09/2026,40,Masculino,Odontología,25.0,20.0,36.5,Sin seguro,
+A0220,2026-09-16,34,Femenino,Ginecología,94.0,16.0,, Público,3.0
+A0221,2026-09-16,50,Masculino,Odontología,35.0,25.0,36.8,Privado,5.0
+A0222,2026-09-16,33,F,Medicina general,33.0,4.0,,IESS,5.0
+A0223,2026-09-16,50,Femenino,MEDICINA GENERAL,26.0,14.0,36.8,Público,4.0
+A0224,2026-09-16,28,f,Ginecología,17.0,34.0,36.2,Público,4.0
+A0225,2026-09-16,47,Femenino ,Medicina general,58.0,27.0,36.0,IESS,5.0
+A0226,16/09/2026,33,Masculino,Emergencia,80.0,25.0,36.0,Público,3.0
+A0227,2026-09-16,2,Masculino,Pediatría,24.0,16.0,36.6,iess,5.0
+A0302,2026-09-22,25,Femenino,Odontología,19.0,21.0,36.2,IESS,3.0
+A0228,16/09/2026,20,Femenino,Ginecología,53.0,20.0,36.1,Público,3.0
+A0229,2026-09-16,61,Femenino,Medicina general,63.0,14.0,36.5,Público,
+A0230,2026-09-16,82,Masculino,Medicina general ,54.0,16.0,36.7,IESS,4.0
+A0231,16/09/2026,16,Masculino,Medicina general,29.0,7.0,36.9,IESS,5.0
+A0232,2026-09-16,25,Masculino,Medicina general,76.0,20.0,36.8,Público,5.0
+A0233,16/09/2026,2,Femenino,Pediatría,10.0,15.0,36.7,Privado,5.0
+A0234,2026-09-16,64,Femenino,Medicina general,12.0,13.0,36.6,IESS,4.0
+A0235,2026-09-16,7,Femenino,Emergencia,-10.0,30.0,38.6,Sin seguro,5.0
+A0236,2026-09-16,29,F,Ginecología,,24.0,36.5,Sin seguro,5.0
+A0237,2026-09-16,44,Masculino,Odontología,39.0,35.0,36.4,IESS,5.0
+A0238,16/09/2026,20,Masculino,Odontología,20.0,22.0,36.4,Público,4.0
+A0239,2026-09-16,16,Femenino,Medicina general,10.0,4.0,36.6,Público,5.0
+A0240,2026-09-16,19,femenino,Ginecología,,18.0,36.4,IESS,5.0
+A0241,2026-09-16,30,Femenino,Ginecología,41.0,31.0,36.7,Público,5.0
+A0242,2026-09-17,5,Femenino,Pediatría,20.0,12.0,37.0,Público,
+A0243,2026-09-17,65,Masculino,Medicina general,29.0,11.0,36.3,Sin seguro,4.0
+A0244,2026-09-17,3,Femenino,Pediatría,83.0,16.0,37.1,Público,3.0
+A0245,17/09/2026,8,Femenino,Emergencia,4.0,24.0,38.1,IESS,5.0
+A0246,2026-09-17,1,Femenino,Pediatría,23.0,19.0,36.6,IESS,
+A0247,2026-09-17,43,Femenino,Medicina general,17.0,25.0,35.6,Público,4.0
+A0248,2026-09-17,35,Femenino,Emergencia,24.0,26.0,37.3,Sin seguro,4.0
+A0249,2026-09-17,78,Femenino,Medicina general,29.0,10.0,36.2,IESS,5.0
+A0250,2026-09-17,26,Femenino,Odontología,146.0,32.0,,IESS,3.0
+A0251,2026-09-17,51,Masculino,Medicina general,62.0,8.0,36.3,Privado,4.0
+A0252,2026-09-17,44,Femenino,Emergencia,11.0,22.0,38.0,Público,
+A0253,2026-09-17,55,Femenino,odontología,51.0,36.0,36.5,Público,4.0
+A0254,2026-09-17,18,Femenino,Ginecología,21.0,29.0,36.9,IESS,5.0
+A0255,2026-09-17,49,Femenino,medicina general,197.0,28.0,36.5,Sin seguro,2.0
+A0256,2026-09-17,35,MASCULINO,Medicina general,78.0,17.0,36.4,IESS,4.0
+A0257,2026-09-17,52,Femenino,Medicina general,48.0,17.0,36.7,Público,4.0
+A0258,2026-09-17,69,masculino,Medicina general,32.0,13.0,36.6,Sin seguro,4.0
+A0259,2026-09-17,28,Femenino,Ginecología,85.0,26.0,36.9,Público,2.0
+A0260,2026-09-17,20,Masculino,Medicina general,25.0,9.0,36.4,Público,5.0
+A0261,2026-09-17,58,Femenino,Medicina general,46.0,15.0,37.0,Público,4.0
+A0262,17/09/2026,24,Femenino,Medicina general,40.0,18.0,36.7,IESS,3.0
+A0263,2026-09-17,50,Masculino,Odontología,53.0,24.0,36.5,IESS,4.0
+A0264,2026-09-18,71,Masculino,Medicina general,24.0,10.0,37.1,Público,5.0
+A0265,2026-09-18,80,Masculino,Medicina general,31.0,9.0,36.9,Público,4.0
+A0266,2026-09-18,22,F,Ginecología,211.0,21.0,36.6,sin seguro,3.0
+A0267,2026-09-18,29,f,Ginecología,83.0,28.0,36.0,IESS,4.0
+A0268,2026-09-18,38,masculino,odontología,71.0,32.0,36.5,IESS,4.0
+A0269,2026-09-18,1,Femenino,Pediatría,,20.0,36.5,IESS,5.0
+A0270,2026-09-18,21,femenino, Medicina general,83.0,13.0,36.1,IESS,5.0
+A0271,2026-09-18,23,Femenino,Ginecología,42.0,19.0,36.1,Público,5.0
+A0272,2026-09-18,52,Femenino,Medicina general,32.0,6.0,37.0,IESS,
+A0273,2026-09-21,,Masculino,Emergencia,45.0,26.0,37.0,IESS,4.0
+A0274,2026-09-21,82,Masculino ,Emergencia,10.0,29.0,36.6,Público,4.0
+A0275,2026-09-21,66,Femenino,medicina general,39.0,18.0,37.3,IESS,
+A0276,2026-09-21,26,Femenino,Odontología,77.0,37.0,36.6,Público,3.0
+A0277,2026-09-21,3,Femenino,Emergencia,21.0,30.0,37.5,IESS,5.0
+A0278,2026-09-21,55,Masculino,Emergencia,,32.0,38.4,IESS,5.0
+A0279,2026-09-21,63,M,Medicina general,148.0,16.0,36.8,Privado,
+A0280,2026-09-21,10,Masculino,Pediatría,54.0,18.0,37.0,IESS,5.0
+A0281,2026-09-21,10,Masculino,Emergencia,5.0,24.0,36.2,Público,5.0
+A0282,2026-09-21,81,Masculino,Medicina general,37.0,19.0,36.8,IESS,5.0
+A0283,2026-09-21,6,Femenino,Pediatría,52.0,19.0,36.5,IESS,4.0
+A0284,2026-09-21,25,FEMENINO,Odontología,67.0,34.0,36.3,Público,3.0
+A0285,21/09/2026,81,Masculino,MEDICINA GENERAL,55.0,19.0,36.5,Público,
+A0286,2026-09-21,39,Femenino,Emergencia,39.0,22.0,37.4,Público,5.0
+A0287,21/09/2026,39,Femenino ,Medicina general,36.0,18.0,36.5,IESS,5.0
+A0288,2026-09-21,6,Femenino,Pediatría,35.0,16.0,36.4,Sin seguro,5.0
+A0289,2026-09-21,35,Masculino,Odontología,49.0,30.0,36.7,Sin seguro,3.0
+A0290,2026-09-21,35,Femenino,Ginecología,46.0,14.0,36.7,Público,4.0
+A0291,2026-09-21,26,Femenino,Odontología,108.0,30.0,36.8,Privado,
+A0292,2026-09-21,10,Masculino,Pediatría,,19.0,36.5,Público,4.0
+A0293,2026-09-21,48,Femenino,Medicina general,-10.0,17.0,36.7,IESS,4.0
+A0294,2026-09-21,999,Femenino ,Ginecología,110.0,21.0,36.8,IESS,3.0
+A0295,2026-09-22,22,Femenino,Ginecología,70.0,28.0,36.2,Público,3.0
+A0296,2026-09-22,23,Femenino,Odontología,30.0,28.0,36.8,IESS,4.0
+A0297,22/09/2026,30,Femenino,odontología,15.0,21.0,36.6,Sin seguro,
+A0298,22/09/2026,35,Masculino,Odontología,22.0,23.0,37.0,IESS,5.0
+A0299,22/09/2026,36,FEMENINO,Ginecología,38.0,28.0,36.2,Público,
+A0300,2026-09-22,76,Femenino,Medicina general,,4.0,36.3,IESS,4.0
+A0301,2026-09-22,52,Masculino,Medicina general,70.0,12.0,36.6,IESS,4.0
+A0302,2026-09-22,25,Femenino,Odontología,19.0,21.0,36.2,IESS,3.0
+A0303,2026-09-22,64,Femenino,Medicina general,47.0,9.0,36.5,IESS,
+A0304,2026-09-22,17,M,Emergencia,12.0,30.0,36.2, IESS,4.0
+A0305,2026-09-22,22,Femenino,Odontología,11.0,25.0,36.9,Público,5.0
+A0306,2026-09-22,70,Femenino,Emergencia,23.0,23.0,38.0,Privado,3.0
+A0307,2026-09-22,4,Femenino,Pediatría,28.0,14.0,36.7,IESS,5.0
+A0308,2026-09-23,57,Femenino,Medicina general,52.0,6.0,36.6,Público,4.0
+A0309,2026-09-23,7,Masculino,Pediatría,21.0,29.0,36.5,Sin seguro,3.0
+A0310,2026-09-23,39,Femenino,Ginecología ,38.0,28.0,36.6,IESS,5.0
+A0311,2026-09-23,42,Femenino,Medicina general,38.0,22.0,37.0,IESS,3.0
+A0312,2026-09-23,28,Femenino,Ginecología,132.0,21.0,35.7,Público,4.0
+A0313,2026-09-23,53,Femenino,Medicina general,34.0,6.0,36.7,Público,4.0
+A0314,23/09/2026,28,Femenino,Ginecología,40.0,32.0,,Público,4.0
+A0315,2026-09-23,53,m,Medicina general,26.0,27.0,37.2,Sin seguro,5.0
+A0316,2026-09-23,63,Masculino,Medicina general,35.0,11.0,36.4,Público,3.0
+A0317,23/09/2026,59,Femenino,Medicina general,54.0,13.0,36.2,Sin seguro,4.0
+A0318,2026-09-23,68,femenino,Medicina general,19.0,21.0,36.6,Público,5.0
+A0319,2026-09-23,20,Masculino,Medicina general,51.0,16.0,100.4,IESS,4.0
+A0320,2026-09-23,6,Masculino,Pediatría,105.0,16.0,36.9,Sin seguro,4.0
+A0321,23/09/2026,46,Femenino,Medicina general,49.0,21.0,,Público,5.0
+A0322,2026-09-23,63,Masculino ,Medicina general,114.0,18.0,36.7,IESS,3.0
+A0323,2026-09-23,40,Femenino,Ginecología,17.0,32.0,,público,5.0
+A0324,2026-09-23,10,Femenino,Pediatría,80.0,22.0,36.5,IESS,5.0
+A0325,23/09/2026,10,Femenino,Pediatría,23.0,25.0,36.6,Público,
+A0326,23/09/2026,85,Femenino,Medicina general,26.0,14.0,36.6,IESS,5.0
+A0327,2026-09-23,7,Femenino,Pediatría,117.0,14.0,36.4,Público,4.0
+A0328,2026-09-24,11 años,Masculino,Pediatría,13.0,21.0,36.8,Público,5.0
+A0329,2026-09-24,60,Femenino,Medicina general,104.0,21.0,37.2,IESS,3.0
+A0330,2026-09-24,150,Femenino,Ginecología,22.0,32.0,36.2,IESS,4.0
+A0331,2026-09-24,,Femenino,Pediatría,6.0,15.0,36.5,Público,4.0
+A0332,2026-09-24,22,Femenino,Medicina general,12.0,13.0,37.1,IESS,5.0
+A0333,2026-09-24,28,FEMENINO,Ginecología,149.0,21.0,36.5,IESS,5.0
+A0334,2026-09-24,24,Femenino,Ginecología,47.0,23.0,36.5,Sin seguro,4.0
+A0335,2026-09-24,13,Femenino,Pediatría,26.0,19.0,37.4,Público,5.0
+A0336,2026-09-24,26,Femenino,Ginecología,,21.0,36.1,Público,5.0
+A0337,24/09/2026,47,Femenino,Medicina general,43.0,5.0,36.8,IESS,4.0
+A0338,2026-09-24,12,Femenino,Pediatría,4.0,13.0,37.1,Público,4.0
+A0339,2026-09-24,41,Femenino,Medicina general,30.0,11.0,36.1,Privado,4.0
+A0340,2026-09-24,73,Masculino,Medicina general,30.0,14.0,36.6,IESS,4.0
+A0341,2026-09-24,7,Femenino,Pediatría,20.0,20.0,37.3,Sin seguro,5.0
+A0342,24/09/2026,69,Femenino,Medicina general,116.0,11.0,37.0,Público,5.0
+A0343,2026-09-24,47,Masculino,Medicina general,,11.0,36.3,Público,4.0
+A0344,24/09/2026,28,Femenino,Odontología,5.0,34.0,36.7,Público,5.0
+A0345,2026-09-24,39,Femenino,Medicina general,111.0,22.0,,Público,4.0
+A0346,2026-09-25,32,Femenino,Ginecología,280.0,20.0,36.6,IESS,1.0
+A0347,2026-09-25,58,Femenino,Medicina general,36.0,16.0,36.6,IESS,
+A0348,2026-09-25,0,Masculino,Pediatría,13.0,20.0,37.1,Privado,4.0
+A0349,25/09/2026,19,F,Medicina general,18.0,11.0,36.6,IESS,5.0
+A0350,2026-09-25,3,Femenino,Pediatría,52.0,18.0,37.2, Privado,4.0
+A0351,2026-09-25,52,Masculino,Medicina general,37.0,17.0,36.9,Público,3.0
+A0352,25/09/2026,69,Femenino,Medicina general,19.0,9.0,36.6,IESS,
+A0353,2026-09-25,0,Femenino,Pediatría,36.0,20.0,,Público,5.0
+A0354,2026-09-25,30,femenino,Odontología,10.0,30.0,36.6,IESS,
+A0355,2026-09-25,41,Masculino,Odontología,42.0,30.0,36.8,IESS,5.0
+A0356,25/09/2026,36,Femenino,Ginecología,67.0,19.0,36.3,IESS,3.0
+A0357,2026-09-25,41,Femenino,Ginecología,7.0,28.0,36.9,PÚBLICO,5.0
+A0358,2026-09-25,11,Masculino,Pediatría,27.0,14.0,36.6,IESS,5.0
+A0359,2026-09-25,27,Femenino,Medicina general,26.0,12.0,,Público,5.0
+A0360,2026-09-25,38,masculino,Emergencia,23.0,24.0,36.8,Público,5.0
+A0361,2026-09-25,9,Masculino,Pediatría,53.0,17.0,,Privado,5.0
+A0362,25/09/2026,51,Masculino,Medicina general,84.0,14.0,36.9,Privado,4.0
+A0363,2026-09-25,12,Femenino,PEDIATRÍA,,18.0,36.2,público,4.0
+A0364,2026-09-25,23,Femenino,Odontología,205.0,27.0,36.8,Público,2.0
+A0365,2026-09-25,42,Femenino,Medicina general,31.0,12.0,36.5,Público,5.0
+A0366,2026-09-25,41,M,EMERGENCIA,12.0,26.0,37.9,SIN SEGURO,5.0
+A0367,2026-09-25,26,Masculino,Emergencia,5.0,33.0,35.8,IESS,5.0
+A0368,2026-09-28,10,Masculino,Pediatría,8.0,28.0,36.8,Sin seguro,5.0
+A0369,2026-09-28,36,Masculino,Odontología,51.0,31.0,36.5,Público,5.0
+A0370,2026-09-28,48,Masculino,Medicina general,24.0,17.0,36.7,Público,4.0
+A0371,2026-09-28,5,Femenino,Pediatría,45.0,26.0,36.3,IESS,
+A0372,2026-09-28,39,Femenino,Medicina general,9.0,18.0,36.4,IESS,4.0
+A0373,28/09/2026,37,Masculino,Medicina general,81.0,15.0,36.7,Sin seguro,4.0
+A0374,2026-09-28,39,Femenino,Medicina general,70.0,4.0,,IESS,5.0
+A0375,2026-09-28,58,Femenino,Medicina general,46.0,12.0,36.5,Público,5.0
+A0376,2026-09-28,34,Femenino,Medicina general,14.0,18.0,36.8,Público,
+A0377,2026-09-28,1,Masculino,Pediatría,76.0,19.0,,Sin seguro,3.0
+A0378,28/09/2026,16,Femenino,Medicina general,76.0,4.0,36.3,PÚBLICO,
+A0379,2026-09-28,59,Femenino,Medicina general,49.0,9.0,36.9,Sin seguro,5.0
+A0380,2026-09-29,54,Femenino,Ginecología,31.0,21.0,36.6,Público,5.0
+A0381,2026-09-29,8,Femenino,Pediatría,12.0,17.0,36.5,Sin seguro,5.0
+A0382,2026-09-29,37,Femenino,Ginecología,12.0,17.0,36.2,Privado,4.0
+A0383,2026-09-29,59,masculino,Medicina general,25.0,20.0,36.9,Público,5.0
+A0384,2026-09-29,20,Femenino,Ginecología,61.0,21.0,98.2,IESS,5.0
+A0385,2026-09-29,27,Masculino, Odontología,37.0,29.0,36.8,Privado,4.0
+A0386,2026-09-29,31 años,F,Ginecología,16.0,28.0,36.3,Privado,5.0
+A0387,2026-09-29,3,Femenino,emergencia,6.0,19.0,,Privado,4.0
+A0388,2026-09-29,37,Femenino,Ginecología,32.0,20.0,36.7,Sin seguro,4.0
+A0389,2026-09-29,45,Masculino,Medicina general,65.0,14.0,36.8,IESS,3.0
+A0390,29/09/2026,16,Masculino,Medicina general,81.0,14.0,36.3,Público,3.0
+A0391,2026-09-29,46,Femenino,Medicina general,41.0,13.0,36.4,Privado,5.0
+A0392,2026-09-29,16,Femenino,Medicina general,29.0,18.0,36.2,IESS,
+A0393,2026-09-29,31,Femenino,Medicina general,20.0,9.0,36.3,Sin seguro,5.0
+A0394,2026-09-29,24,Femenino,Ginecología,37.0,11.0,36.5,Público,5.0
+A0395,2026-09-29,32,Femenino,Medicina general,155.0,13.0,36.6,Público,4.0
+A0396,2026-09-29,17,femenino,Odontología,65.0,30.0,36.8,IESS,4.0
+A0397,2026-09-29,83,Femenino,Emergencia,25.0,25.0,37.3,Sin seguro,5.0
+A0398,29/09/2026,70,Masculino,Medicina general,14.0,20.0,36.6,Público,3.0
+A0399,2026-09-29,23,Masculino,Odontología,14.0,28.0,98.6,IESS,5.0
+A0400,2026-09-29,60,Femenino,Medicina general,18.0,8.0,36.1,Público,4.0
+A0401,2026-09-29,8,masculino,Pediatría,36.0,9.0,36.5,Público,4.0
+A0402,2026-09-29,79,Femenino,Medicina general,33.0,9.0,36.3, Público,5.0
+A0403,2026-09-30,23,Femenino,Medicina general,16.0,23.0,36.9,Sin seguro,5.0
+A0404,2026-09-30,14,Femenino,Odontología,10.0,31.0,36.9,Privado,
+A0405,2026-09-30,22,Masculino,Medicina general,25.0,14.0,36.8,Sin seguro,5.0
+A0406,2026-09-30,6,Femenino,PEDIATRÍA,43.0,26.0,36.6,Público,
+A0407,2026-09-30,55,Masculino,Emergencia,16.0,27.0,38.6,IESS,5.0
+A0408,2026-09-30,59,Masculino,Medicina general,21.0,15.0,36.7,IESS,5.0
+A0409,2026-09-30,8,Masculino,Pediatría,42.0,18.0,36.3,IESS,4.0
+A0410,2026-09-30,38,Masculino,Medicina general,8.0,9.0,36.3,IESS,4.0
+A0411,2026-09-30,12 años,Masculino,Pediatría,21.0,19.0,36.1,IESS,5.0
+A0412,2026-09-30,2,Masculino,Pediatría,76.0,23.0,36.6,Público,3.0
+A0413,30/09/2026,27,Femenino,Ginecología,27.0,18.0,36.2,IESS,5.0
+A0414,2026-09-30,30,Masculino,Odontología,11.0,31.0,36.6,Público,5.0
+A0415,2026-09-30,41,Femenino, Medicina general,18.0,21.0,36.1,Público,5.0
+A0416,2026-09-30,32,Femenino,Medicina general,21.0,26.0,36.4,Público,5.0
+A0417,2026-09-30,51,Femenino ,Emergencia,3.0,24.0,35.7,IESS,
+A0418,2026-09-30,59,Femenino,Odontología,9.0,29.0,36.4,Sin seguro,
+A0419,2026-09-30,60,Masculino,Medicina general,9.0,14.0,36.2,Público,5.0
+A0420,2026-09-30,53,Femenino,Medicina general,7.0,20.0,36.5,IESS,5.0

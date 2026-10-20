@@ -1,0 +1,407 @@
+id_envio,fecha_envio,ciudad_destino,tipo_vehiculo,peso_kg,distancia_km,tiempo_entrega_horas,costo_envio_usd,estado_entrega,calificacion_servicio
+RX00001,2026-09-01,Riobamba,Moto,0.9,58.5,1.9,4.66,Entregado,5.0
+RX00002,2026-09-01,Guayaquil,Camioneta,34.6,297.0,6.6,17.05,Entregado,5.0
+RX00003,2026-09-01,Ambato, Moto,7.1,0.0,1.0,3.7,Entregado,
+RX00004,2026-09-01,Ambato,Moto ,-2.5,11.7,1.2,3.67, Entregado,5.0
+RX00005,2026-09-01,Quito,Moto,5.1,141.9,3.8,8.08,Entregado,
+RX00006,2026-09-01,Cuenca,Camioneta,15.8,264.8,5.5,13.66,Entregado,4.0
+RX00007,2026-09-01, Ambato,Moto,11.9,11.4,0.9 h,4.33,Entregado,5.0
+RX00008,01/09/2026,Ambato ,Camioneta,3.4,18.9,1.4,3.57,Entregado,5.0
+RX00009,01/09/2026,Ambato,Moto,4.6,22.5,1.4,3.84,Entregado,4.0
+RX00010,2026-09-01,Ibarra,Moto,13.1,220.6,,11.79,En tránsito,
+RX00011,2026-09-01,Ambato ,Camioneta,46.5,3.6,1.2,8.21,Entregado,5.0
+RX00012,2026-09-01,Quito,Camioneta,46.1,130.5,7.4,12.6,Retrasado,
+RX00013,2026-09-01,Ibarra,Camioneta,35.9,242.7,5.1,,Entregado,4.0
+RX00014,2026-09-01,Ambato,Camioneta,2.6,24.2,1.5,3.66,Entregado,
+RX00015,2026-09-01,Riobamba,Moto,2.5,56.8,4.5 h,4.79,retrasado,4.0
+RX00016,2026-09-01,Guayaquil,Camioneta,23.0,305.6,6.4,15.96,Entregado,3.0
+RX00017,2026-09-01,Ambato,Moto,0.0,21.5,3.4,4.84,Retrasado,4.0
+RX00018,2026-09-01,Guayaquil,Moto,14.6,285.8,6.4,14.26,entregado,4.0
+RX00019,2026-09-02,Quito,Camioneta,10.6,131.8,5.6,8.38,Retrasado,
+RX00020,02/09/2026,Guayaquil,Moto,9.9,298.7,6.1,14.14,Entregado,5.0
+RX00021,02/09/2026,Quito,Moto,2.4,133.7,3.2,7.47,Devuelto,3.0
+RX00022,2026-09-02,Baños,Moto,6.3,38.2,1.9,4.59,Entregado,5.0
+RX00023,2026-09-02,Quito,Moto,7.0,137.8,3.8,8.16,Entregado ,
+RX00024,2026-09-02,Ambato,Moto,9.9,18.3,1.6 h,4.33,Entregado,
+RX00025,2026-09-02,Ambato,Camión,543.2,12.7,1.6,93.13,Entregado,5.0
+RX00026,2026-09-02,Ambato,Moto,2.5,12.0,0.9,,Entregado,
+RX00027,2026-09-02, Cuenca,Camioneta,10.2,265.1,5.7 h,13.0,Entregado,
+RX00028,2026-09-02,Baños,Moto,1.7,42.8,1.6,4.2,Entregado,
+RX00029,2026-09-02,Guayaquil,Moto,0.9,284.2,10.3 h,12.56,Retrasado,2.0
+RX00030,2026-09-02,Guayaquil,Moto,2.6,282.1,6.1,,Devuelto,3.0
+RX00031,2026-09-03,Guayaquil,Camioneta,6.7,279.0,5.7,13.07,Entregado ,4.0
+RX00032,2026-09-03,Quito,Camioneta,19.6,143.1,3.6,9.86,Entregado,
+RX00033,2026-09-03,Ambato, Moto,3.1,27.6,1.5,3.84,entregado,
+RX00034,2026-09-03,AMBATO,Camioneta,13.2,15.5,1.5,4.63,Entregado,5.0
+RX00035,2026-09-03,Quito,Moto,4.0,130.9,3.2,7.56,Entregado,4.0
+RX00036,03/09/2026,Ambato,Moto,5.5,3.3,3.1,3.28,Retrasado,4.0
+RX00037,2026-09-03,Quito,Moto,10.8,138.4,3.8,8.64,Entregado,4.0
+RX00038,2026-09-03, Latacunga,Moto,9.0,47.8,1.5,5.25,Entregado,3.0
+RX00039,2026-09-03,quito,Moto,0.7,131.3,3.6,7.18,Entregado,5.0
+RX00040,2026-09-03,Ambato,Camioneta,36.7,12.6,1.3,7.34,Entregado,4.0
+RX00041,2026-09-03,quito,Camioneta,120.0,132.6,3.4,21.54,Entregado,4.0
+RX00042,2026-09-03,Ambato,Camioneta,32.2,26.2,1.9,7.28,Entregado,
+RX00043,2026-09-03,Ibarra,Moto,5.0,244.9,5.0,11.67,Entregado,5.0
+RX00044,2026-09-04,Ambato,Moto,3.0,28.3,1.6,3.85,Entregado,5.0
+RX00045,2026-09-04,Ambato,Camioneta,,20.7,1.7,7.83,Entregado,4.0
+RX00046,2026-09-04,Ambato,Camioneta,26.0,4.9,0.9,5.79,Entregado,4.0
+RX00047,2026-09-04,Ibarra,Camión,281.3,225.0,4.9,69.13,Entregado,3.0
+RX00048,2026-09-04,Baños,Camioneta,21.6,41.9,1.4,6.56,entregado,5.0
+RX00049,2026-09-04,Latacunga,Moto,11.1,46.2,1.4,5.45,ENTREGADO,5.0
+RX00050,2026-09-04,Quito,Moto,14.9,135.9,3.4,9.04,Entregado,
+RX00051,04/09/2026,Quito,Moto,3.9,127.7,6.0 h,7.44,Retrasado,
+RX00052,2026-09-04,Quito,Camioneta,12.5,126.6,2.8,8.43,Entregado,3.0
+RX00053,2026-09-04,Ambato ,Moto,2.6,22.9,3.9,3.61,Retrasado,4.0
+RX00054,2026-09-04,Baños,Moto,8.6,41.9,1.9,5.0,Entregado,5.0
+RX00055,2026-09-04,Cuenca,Camioneta,2.3,258.5,5.2,11.82,Entregado,5.0
+RX00056,2026-09-04,Ambato,Camioneta,14.1,28.6,2.1,5.19,Entregado ,5.0
+RX00057,2026-09-04,Ambato,Moto,7.7,27.6,2.6,4.39,Entregado,4.0
+RX00058,2026-09-04,Guayaquil,Camioneta,16.8,,5.9,14.33,Entregado,4.0
+RX00059,2026-09-05,Riobamba,Moto,11.6,52.5,1.9,5.73,Entregado,3.0
+RX00060,05/09/2026,Ambato,Moto,10.9,12.2,,4.24, En tránsito,
+RX00061,2026-09-05,Baños,Moto,5.0,40.6,1.4,4.52,Entregado,4.0
+RX00062,2026-09-05,Ambato,Moto,8.2,5.2,1.0,3.67,Entregado,5.0
+RX00063,2026-09-05,Ambato,Moto,1.5,,1.4,2.78,Entregado,3.0
+RX00064,2026-09-05,Ibarra,Moto,-2.5,229.3,9.0,11.64,Retrasado,4.0
+RX00065,2026-09-05,Latacunga,Camioneta,19.7,47.6,1.9,6.53,Entregado,5.0
+RX00066,05/09/2026,Ambato ,Camioneta,20.4,29.0,1.7,5.96,Entregado,3.0
+RX00067,2026-09-05,Ambato,MOTO,10.9,21.1,1.7,4.55,Entregado,
+RX00211,2026-09-16,Ibarra,Camioneta,12.6,242.8,6.0,12.51,Entregado,4.0
+RX00068,05/09/2026,Ambato,Moto,5.6,,,3.95,en tránsito,3.0
+RX00069,2026-09-05,Ambato,Camioneta,19.2,,1.7,5.76,Entregado,
+RX00070,05/09/2026,Ibarra,Moto,3.2,241.9,5.3,11.35,Entregado,5.0
+RX00071,2026-09-05,Ambato,Camioneta,12.3,13.7,1.0,4.46,Entregado,5.0
+RX00072,2026-09-05,Cuenca,Moto,,272.0,6.0,12.32,Entregado,4.0
+RX00073,2026-09-05,Ambato,Moto,3.1,3.3,0.8,2.99,Entregado,4.0
+RX00074,2026-09-05,Cuenca,Camioneta,15.5,265.8,5.4,13.66,Entregado,5.0
+RX00075,2026-09-06,Latacunga,Camioneta,9.9,46.2,3.2,5.3,Retrasado,3.0
+RX00076,2026-09-06,Ambato,Moto,9.0,2.7,0.9,3.67,Entregado,5.0
+RX00077,2026-09-06,Ambato,Moto,3.7,5.7,1.5,3.14,Entregado,5.0
+RX00078,2026-09-06,Baños,Camioneta,15.8,41.3,1.3,5.84,Entregado,4.0
+RX00079,2026-09-06,Latacunga,Camioneta,28.5,47.2,1.6,7.57,Entregado,4.0
+RX00080,2026-09-06,Ambato,Moto,4.5,10.7,0.9,3.41,Entregado,4.0
+RX00081,2026-09-06,Baños,Moto,5.7,,1.4,4.53,Entregado,
+RX00082,2026-09-06,Ambato,Camioneta,86.1,11.6,1.1,13.24,Entregado,5.0
+RX00083,2026-09-06,Quito,Moto,3.6,129.1,3.4,7.45,Entregado,4.0
+RX00084,06/09/2026,Baños,Moto,3.7,41.2,2.4,4.39,Entregado,
+RX00085,06/09/2026,Guayaquil,Moto,14.4,279.3,5.6,14.0,Entregado,4.0
+RX00086,06/09/2026,Ambato,Moto ,1.9,16.2,1.4,3.3,Entregado,3.0
+RX00087,2026-09-07,Guayaquil,Moto,9.6,309.6,6.8 h,14.49,Entregado,5.0
+RX00088,2026-09-07,CUENCA,Moto,1.9,268.1,6.1,12.11,Entregado,4.0
+RX00089,2026-09-07,Cuenca ,Moto,11.7,256.1,9.8,12.87,Retrasado,2.0
+RX00090,2026-09-07,Guayaquil, Camioneta,2.6,286.9,5.8,12.85,Entregado,5.0
+RX00091,2026-09-07,Ambato,Moto,2.2,28.9,1.9,3.78,Entregado,4.0
+RX00092,2026-09-07,Quito,Moto,4.8,136.0,6.4 h,7.84,Retrasado,4.0
+RX00093,2026-09-07, Ambato,Moto,14.8,9.7,,4.62,Entregado,4.0
+RX00094,2026-09-07,Ambato,Moto,10.6,6.7,0.8,4.01,Entregado,3.0
+RX00095,2026-09-07,Ambato ,Moto,8.2,15.9,1.3,4.04,Entregado,
+RX00096,2026-09-08,Latacunga,Moto,2.5,47.6,3.9,4.47,Retrasado,3.0
+RX00097,2026-09-08,Quito,Moto,1.7,134.8,3.0,7.42,Entregado,4.0
+RX00098,2026-09-08,Ambato,Moto,10.7,4.1,1.2,3.93,Entregado,5.0
+RX00099,2026-09-08,Guayaquil,Moto,3.5,273.7,6.1,12.5,Entregado,3.0
+RX00100,2026-09-08,Quito,Moto,9.3,142.0,6.1,,Retrasado,2.0
+RX00101,2026-09-08,Quito ,Moto,4.0,129.8,3.2,7.52,Entregado,4.0
+RX00102,09/09/2026,Ambato,Moto,1.5,6.9,0.8,2.92,entregado,4.0
+RX00103,09/09/2026,Ambato,Moto,9.9,10.0,1.6,4.04,Entregado,
+RX00104,09/09/2026,Ambato,Camioneta,28.4,23.2,4.0,6.72,Retrasado,3.0
+RX00105,2026-09-09,AMBATO,Moto,9.8,15.2,1.1,4.21,Entregado,5.0
+RX00106,2026-09-09,Guayaquil,Moto,5.8,275.6,10.0,12.84,Retrasado,3.0
+RX00107,2026-09-09,Ambato,Moto,4.7,3.4,1.4,3.18,Entregado,
+RX00108,09/09/2026,Guayaquil,Camioneta,15.6,297.1,6.3,14.77,entregado,
+RX00109,2026-09-09,Ambato,Camioneta,7.5,20.3,2.0 h,4.11,Entregado,4.0
+RX00110,2026-09-09,Ibarra,Moto,12.0,232.7,5.1,12.08,Entregado,
+RX00111,2026-09-09,Ambato,Moto,7.9,18.7,1.4,4.1, Entregado,5.0
+RX00112,2026-09-09,Latacunga,Moto,11.8,51.2,2.0,5.71,Entregado,4.0
+RX00113,2026-09-09,Ambato,Moto,4.0,24.4,2.0,3.83,Entregado,4.0
+RX00114,09/09/2026,Ambato,Moto,6.1,10.5,0.9,3.6,Entregado,4.0
+RX00115,2026-09-09,Riobamba,Moto,4.9,52.6,4.4,4.93,RETRASADO,2.0
+RX00116,2026-09-09,Ibarra,Moto,4.6,217.1,5.0,10.65,Entregado,4.0
+RX00117,2026-09-09,Riobamba,Moto,11.9,56.3,1.6 h,5.9,Entregado,4.0
+RX00118,2026-09-09,Ambato,Camioneta,17.3,20.5,1.5,5.29,Entregado,4.0
+RX00119,2026-09-09,Cuenca,Camioneta,20.5,262.4,,14.14,En tránsito,
+RX00120,2026-09-09,Riobamba,Moto,4.1,51.5,2.1,4.79,Entregado,4.0
+RX00121,2026-09-10,Ibarra,Moto,1.4,226.5,4.8,10.6,Entregado,
+RX00122,2026-09-10,Ambato,Moto,4.7,20.6,1.3 h,3.78,Entregado,3.0
+RX00123,2026-09-10,Ambato,Moto,11.2,17.0,1.1,4.44,Entregado,2.0
+RX00124,2026-09-10,Quito,Camión,891.4,135.8,3.7,139.22,Entregado,4.0
+RX00125,2026-09-10,Baños,Camioneta,66.3,42.2,1.4,11.93,Devuelto,1.0
+RX00126,10/09/2026,Ambato,Moto,4.3,28.5,3.6,4.01,Retrasado,3.0
+RX00127,10/09/2026,Ambato,Camioneta,18.4,25.0,3.2,5.58,Retrasado,2.0
+RX00128,2026-09-10,Ambato,Camioneta,15.5,9.6,1.1,4.7,Devuelto ,1.0
+RX00129,2026-09-10,Riobamba,Moto,12.5,55.4,1.6,5.94,Entregado,5.0
+RX00130,2026-09-10,Baños,Camioneta,1.8,41.5,2.0,4.17,Entregado ,3.0
+RX00131,2026-09-10,Quito, Moto,5.4,141.9,3.1,8.11,Entregado,4.0
+RX00228,2026-09-17,Ambato,Moto,2.9,12.2,3.1,3.28,RETRASADO,
+RX00132,2026-09-10,Latacunga,Camioneta,26.8,48.6,2.0,7.42,Entregado,5.0
+RX00133,2026-09-10,Ambato,Moto,13.1,25.7,1.7,4.97,Entregado,4.0
+RX00134,2026-09-10,Ibarra,Moto,6.8,214.7,5.0,10.83,Entregado,2.0
+RX00135,11/09/2026,Quito,Moto,8.8,143.3,4.1,8.57,Entregado,4.0
+RX00136,2026-09-11,Baños,Moto ,8.7,37.4,1.8,4.85,Entregado,4.0
+RX00137,2026-09-11,Ibarra,Moto,3.9,,5.2,10.91,Entregado,5.0
+RX00138,2026-09-11,Quito,Moto,3.1,142.9,3.8,7.87,Entregado,5.0
+RX00139,2026-09-11,Riobamba,Moto,9.3,53.3,1.5,5.48,Entregado,5.0
+RX00140,11/09/2026,Ambato,Camioneta,113.1,21.7,2.0,16.83,Entregado,
+RX00141,2026-09-11,Ibarra,Moto,2.3,218.7,4.7,10.43,Entregado,
+RX00142,11/09/2026,Ambato,Moto,-2.5,3.1,1.4,3.86,Entregado,3.0
+RX00143,2025-09-14,Cuenca,Moto,3.2,281.7,6.4,12.74,Devuelto,2.0
+RX00144,2026-09-11,Guayaquil,Camioneta,18.1,304.0,6.2,15.31,Entregado,3.0
+RX00145,2026-09-11,Quito,Moto,12.8,138.8,3.1,8.89,Entregado,
+RX00146,11/09/2026,Riobamba,Camioneta,19.5,56.8,2.1,6.83,Entregado,
+RX00147,2026-09-11,Ambato,Camioneta,50.3,21.6,1.2,9.29,Entregado,5.0
+RX00148,2026-09-11,Ambato,Camioneta,22.8,19.7,1.6 h,5.93,Entregado,5.0
+RX00149,2026-09-11,Guayaquil,Moto,3.5,287.1,5.8,12.97,Entregado,5.0
+RX00150,11/09/2026,Riobamba,Moto ,9.5,58.5,2.8,5.69,Entregado,4.0
+RX00151,2026-09-11,Ambato,Moto,3.1,21.9,1.7,3.64,Entregado,4.0
+RX00152,2026-09-11,Guayaquil,Moto,6.7,280.4,5.7,13.12,Entregado,4.0
+RX00153,11/09/2026, Quito,Moto,4.9,142.2,3.8,8.06,Entregado,
+RX00154,2026-09-11,Ibarra,Moto,7.0,217.3,4.9 h,10.95,Entregado,4.0
+RX00155,2026-09-11,Latacunga,Moto,3.4,49.8,1.7,4.65,Entregado,5.0
+RX00156,2026-09-11,Ambato ,Moto,10.9,11.6,1.5,4.21,Entregado,4.0
+RX00157,2026-09-12,Ambato,Moto,3.1,2.0,0.8,2.94,Entregado,3.0
+RX00158,12/09/2026,Ambato,Moto,1.6,9.6,0.9,3.03,Entregado,5.0
+RX00159,2026-09-12,Ambato,Camioneta,12.7,10.1,1.0,4.38,Entregado,4.0
+RX00160,12/09/2026,Guayaquil, Camioneta,9.3,287.0,5.8 h,13.66,Entregado,
+RX00161,2026-09-12, Ambato,Camioneta,19.6,28.9,3.4,5.86,Retrasado,3.0
+RX00162,2026-09-12,Quito,Moto,2.6,,3.6,7.81,Entregado,
+RX00163,2026-09-12,Ambato,Camioneta,16.5,12.0,1.2,4.9,Entregado,4.0
+RX00164,2026-09-12,Quito,Camioneta,16.2,141.5,,9.4,En tránsito,4.0
+RX00165,2026-09-12,Latacunga,Moto,10.9,,1.4,5.48,Entregado,
+RX00166,2026-09-12,Cuenca,Moto,3.5,263.8,5.9,12.15,Entregado,3.0
+RX00167,2026-09-12,Ambato,Camioneta,37.8,18.3,3.4,7.68,Retrasado ,3.0
+RX00168,2026-09-12,Latacunga,Camioneta,2.4,0.0,1.7,4.54,Entregado,3.0
+RX00169,2026-09-13,Ambato,Moto,7.0,25.3,2.3,4.23,Entregado,4.0
+RX00170,2026-09-13,Ibarra,Moto,4.1,220.0,8.2,10.69,Retrasado,3.0
+RX00171,2026-09-13,Riobamba,Moto,5.1,58.3,2.3,5.15,Entregado,5.0
+RX00172,2026-09-13,Quito,Moto,9.8,141.1,3.3,8.61,Entregado,5.0
+RX00173,13/09/2026,Baños,Moto,6.6,38.8,2.1,4.65,Entregado,3.0
+RX00174,2026-09-13,Guayaquil,Moto,4.8,283.4,5.8,13.0,Entregado,4.0
+RX00175,2026-09-13,Cuenca,Moto,9.0,259.6,5.2,12.67,Entregado ,3.0
+RX00176,13/09/2026,Guayaquil,Camioneta,23.2,291.7,6.2 h,15.49,Entregado,3.0
+RX00177,2026-09-13,Ambato,Moto,10.8,25.1,1.4,4.67,Entregado,
+RX00178,2026-09-13,Guayaquil,Moto ,3.0,288.0,5.9,12.94,Entregado,3.0
+RX00179,2026-09-13,AMBATO,Moto,3.8,10.2,1.7,3.31,Entregado,4.0
+RX00180,2026-09-13,Ambato,Moto,5.8,29.2,2.4,4.22,ENTREGADO,
+RX00181,2026-09-13,Ambato,Moto,3.2,14.9,2.2 h,3.41,Entregado,3.0
+RX00182,2026-09-13,Ambato,Camioneta,30.5,7.6,1.0,6.43,Entregado,5.0
+RX00183,2026-09-13, Ibarra,Moto,2.2,217.5,4.7,10.38,Entregado,5.0
+RX00184,2026-09-14,Latacunga,Moto,3.7,50.9,2.7,4.73,Entregado,
+RX00185,2026-09-14,Ambato,Camioneta,15.9,,4.5,5.11,Retrasado,2.0
+RX00186,2026-09-14,Quito,Moto,,132.6,3.5,7.6,Entregado,4.0
+RX00187,2026-09-14,Cuenca,Camioneta,2.6,262.7,5.3,12.01,Entregado,
+RX00188,2026-09-14,Guayaquil,Moto,14.0,301.4,6.1,14.73, Entregado,4.0
+RX00189,2026-09-14,Latacunga,Camioneta,4.6,47.2,2.2,4.7,Entregado,5.0
+RX00190,2026-09-14,Ambato,Moto,7.3,5.5,1.2,3.57,Entregado,
+RX00191,2026-09-14,Ibarra,Moto,1.3,236.3,5.0 h,10.93,Entregado,5.0
+RX00192,2026-09-14,Guayaquil,Moto,8.8,297.0,5.9,13.95,Entregado,4.0
+RX00193,2026-09-14,Ambato,Moto,,22.5,2.6,3.74,Entregado,
+RX00194,2026-09-14,Ibarra,Moto,13.8,238.0,4.8,12.49,Entregado,5.0
+RX00195,2026-09-14,Ambato,Moto,10.3,9.6,0.9,4.07,entregado,5.0
+RX00196,2026-09-14,Ambato,Moto,3.8,8.6,0.8,3.26,Entregado,4.0
+RX00197,2026-09-15,Guayaquil,Moto,2.3,310.0,6.8,13.63,Entregado,5.0
+RX00198,15/09/2026,Quito,Moto,7.9,131.5,2.9,8.05,Entregado,4.0
+RX00199,2026-09-15,Quito,Moto,11.3,141.0,,8.79,Entregado,4.0
+RX00200,15/09/2026,Guayaquil,Moto,1.8,309.1,6.1,13.53,Entregado,5.0
+RX00201,2026-09-15,Ambato,Moto,12.9,22.9,,4.85,EN TRÁNSITO,
+RX00202,2026-09-15,GUAYAQUIL,Moto,4.5,270.7,5.5,12.51,Entregado,4.0
+RX00203,2026-09-15, Quito,Moto,11.5,137.1,3.5 h,8.68,Entregado,3.0
+RX00204,2026-09-15,Cuenca,Camioneta,12.9,272.5,,13.59,Entregado,4.0
+RX00205,15/09/2026,Ambato,Camioneta,53.3,8.8,2.0,9.2,Entregado,4.0
+RX00206,2026-09-15,Ambato,Moto,5.8,9.7,1.4,3.54,Entregado,4.0
+RX00207,2026-09-15,Ambato,Camión,570.4,18.8,,96.61,En tránsito,4.0
+RX00208,16/09/2026,Ambato,Camioneta,1.1,7.2,0.9,2.88,Entregado,4.0
+RX00209,2026-09-16,Ambato,MOTO,12.7,4.1,0.7,4.17,Entregado,5.0
+RX00210,2026-09-16,Ambato, Moto,8.5,13.0,1.2,3.98,Entregado,
+RX00211,2026-09-16,Ibarra,Camioneta,12.6,242.8,6.0,12.51,Entregado,4.0
+RX00212,2025-09-14,Baños,Camioneta,27.5,37.2,1.2,7.1,Entregado,5.0
+RX00213,2026-09-16,Quito,Moto,10.2,134.8,,8.44, Entregado,4.0
+RX00214,2026-09-16,Riobamba,Moto,8.7,54.8,2.1,5.46,Entregado,5.0
+RX00082,2026-09-06,Ambato,Camioneta,86.1,11.6,1.1,13.24,Entregado,5.0
+RX00215,2026-09-16, Cuenca,Moto,2.9,255.1,5.2,11.78,Entregado,5.0
+RX00216,16/09/2026,Cuenca,Camioneta,15.6,274.3,,13.97, En tránsito,
+RX00217,2026-09-17,Quito,Camioneta,4.8,142.6,4.3,8.07,Entregado,4.0
+RX00218,2026-09-17,Ambato,CAMIONETA,22.5,21.5,2.2,5.95,Entregado,5.0
+RX00219,2026-09-17,Riobamba,Moto,4.9,51.3,2.4,4.88,Entregado,
+RX00220,2026-09-17,Ambato,Moto,0.5,26.9,1.9,3.5,ENTREGADO,
+RX00221,2026-09-17,Riobamba,Moto,3.3,54.3,4.0 h,4.8,Retrasado,2.0
+RX00222,17/09/2026,Ambato,Camioneta,52.1,6.1,1.0,8.97,Entregado,
+RX00223,2026-09-17,Quito,Moto,4.8,130.7,3.4,7.65,Entregado,4.0
+RX00224,2026-09-17,Ambato ,Camioneta,77.4,2.2,0.6,11.86,Entregado,4.0
+RX00225,2026-09-17,Cuenca,MOTO,12.1,254.5,6.3,12.86,Entregado,5.0
+RX00226,2026-09-17,Guayaquil,Camioneta,2.0,289.3,6.5 h,12.87,Entregado,3.0
+RX00227,2026-09-17,Ambato,Moto,7.2,21.0,2.3,4.1,Entregado,5.0
+RX00228,2026-09-17,Ambato,Moto,2.9,12.2,3.1,3.28,RETRASADO,
+RX00229,2026-09-17,Riobamba,Camioneta,16.0,56.5,2.7,6.4,Entregado,3.0
+RX00230,2026-09-17,Ambato,Moto,1.9,23.8,1.6,3.56,Entregado,4.0
+RX00231,2026-09-18,Quito,Moto,3.2,134.4,3.0,7.59,Entregado,
+RX00232,2026-09-18,Ambato,Moto,4.4,7.7,0.9,3.3,Entregado,3.0
+RX00233,2026-09-18,Riobamba,Camioneta,48.0,51.8,2.5,10.07,Entregado,5.0
+RX00234,2026-09-18,Ambato,Camioneta,,2.5,0.7,3.75,Entregado,
+RX00235,2026-09-18,Quito,Camión,684.9,131.0,3.0,114.27,Entregado,4.0
+RX00236,2026-09-18,Latacunga,Moto,2.8,50.6,2.2,4.61,Entregado,
+RX00237,2026-09-18,Cuenca,Moto,1.4,254.6,,11.58,En tránsito,
+RX00238,2026-09-18,Quito,Moto,7.7,140.6,3.3,8.35,Entregado,5.0
+RX00239,2026-09-18,Baños,Moto,3.2,40.0,1.4,4.28,Entregado,4.0
+RX00240,2026-09-18,Ambato,Camioneta,5.3,20.3,1.3,3.85,Entregado,5.0
+RX00241,2026-09-18,Baños,CAMIONETA,49.2,41.7,1.5,9.86,Entregado ,4.0
+RX00242,2026-09-18,Ambato,Moto,12.1,7.8,0.9,4.22,Entregado,4.0
+RX00243,2026-09-19,Ibarra,Camioneta,35.9,239.3,5.0,15.18,Entregado,5.0
+RX00244,19/09/2026,Ambato,Moto,2.0,23.7,1.5,3.57,Entregado,
+RX00245,2026-09-19,Latacunga,Camioneta,1.3,46.2,1.5,4.27,Entregado,
+RX00246,19/09/2026,Guayaquil,Moto,2.8,280.2,6.2,12.64,Entregado,4.0
+RX00247,19/09/2026,Guayaquil,Moto,4.8,283.1,5.7,12.98,Entregado,4.0
+RX00248,2026-09-19,Ambato,Moto,14.2,2.1,0.8 h,4.28,Entregado,
+RX00249,2026-09-19, Ambato,Moto,9.5,25.5,1.4,4.53,Entregado,4.0
+RX00250,19/09/2026,Ambato,Moto,,8.0,0.9,3.13,Entregado,2.0
+RX00251,19/09/2026,Ibarra,Moto,1.9,231.6,4.8,10.83,Entregado,3.0
+RX00252,2026-09-19, Riobamba,Moto,2.9,51.2,2.0,,Entregado,3.0
+RX00253,2026-09-19,Ambato,Moto,3.3,17.7,1.2,3.52,Entregado,5.0
+RX00254,2026-09-19,Cuenca,Camioneta,17.2,251.3,6.1,13.36,Entregado,4.0
+RX00255,2026-09-20,Cuenca,Moto,1.3,260.8,6.3,11.78,Entregado,4.0
+RX00256,20/09/2026,Baños,Moto,14.6,38.0,2.2,5.58,Entregado,3.0
+RX00257,2026-09-20,Quito,Moto,4.9,125.8,3.1,7.49,Devuelto,3.0
+RX00258,2026-09-20,Cuenca,Camioneta,16.3,263.2,5.5,13.67,Devuelto,3.0
+RX00259,2026-09-20,Baños,Moto,3.8,37.2,1.9,4.26,Entregado,
+RX00260,20/09/2026,Cuenca,Moto,3.1,267.1,5.5,12.22,Entregado,
+RX00261,2026-09-20,Ambato,Camioneta,31.3,20.3,1.5,6.97,Entregado,3.0
+RX00262,2026-09-20,Latacunga,Moto,4.8,47.1,1.7,4.72,Entregado,4.0
+RX00263,2026-09-21,Quito,Camioneta,5.4,136.5,3.0,7.93,Entregado,
+RX00264,21/09/2026,Quito,Moto,6.9,130.6,3.0,7.9,Entregado,5.0
+RX00265,2026-09-21,Quito,Moto,2.4,139.4,3.1 h,7.67,Entregado,4.0
+RX00266,2026-09-21,Ambato,Moto,7.1,17.5,,3.96, En tránsito,5.0
+RX00267,21/09/2026,Ambato,Moto,3.6,11.7,1.3,,Entregado,4.0
+RX00268,2026-09-21,Ambato,Moto,8.3,26.8,1.9,4.43,Entregado,5.0
+RX00269,2026-09-21,Guayaquil,Moto,3.8,272.1,6.0,12.48,Entregado,4.0
+RX00270,2026-09-21,Ambato,Moto,6.9,26.2,1.9,4.24,Entregado,
+RX00271,2026-09-21,Ibarra,Camioneta,6.5,230.8,4.8 h,11.36,Entregado,4.0
+RX00272,2026-09-21,Quito,Moto,3.3,132.9,3.0,7.55,devuelto,3.0
+RX00273,2026-09-21,Ambato,Moto,2.2,19.8,1.4,3.46,Entregado,
+RX00274,2026-09-21,Ambato,Moto,4.4,18.8,1.4,3.69,Entregado,4.0
+RX00275,2026-09-21,Baños,Moto,1.9,41.0,1.8,4.16,Entregado,4.0
+RX00276,21/09/2026,Ambato,Moto,3.6,27.6,2.4,3.9,Entregado,4.0
+RX00277,2026-09-22,Ambato,Moto,10.8,20.4,1.6,4.51,Entregado,5.0
+RX00278,2026-09-22,Riobamba,Moto ,3.4,53.7,2.2,4.79,Entregado,
+RX00279,22/09/2026,Riobamba,Camioneta,4.0,51.4,3.7,4.78,Retrasado,4.0
+RX00280,2026-09-22,Guayaquil,Moto,1.6,280.3,5.7,12.5,Entregado,5.0
+RX00281,2026-09-22,Ambato,Moto,2.5,28.5,2.1,3.8,ENTREGADO,4.0
+RX00282,2026-09-22,Guayaquil, Camioneta,1.6,283.2,5.7,12.6,Entregado,
+RX00283,2026-09-22,Ibarra,Moto,6.0,220.7,4.8,10.94,Entregado,3.0
+RX00284,2026-09-22,Ambato, Moto,2.7,21.3,1.7,3.57,Entregado,4.0
+RX00285,2026-09-22,Ambato,Moto,3.1,27.5,2.5,3.83,Entregado,4.0
+RX00286,2026-09-22,Baños,Moto,5.3,38.8,2.1,4.49,Entregado,5.0
+RX00287,2026-09-22,Riobamba,Moto,4.2,57.3,1.8,5.01,Entregado,
+RX00288,2026-09-22,Guayaquil ,Moto,10.8,280.2,6.1,13.6,Entregado,5.0
+RX00289,2026-09-23,Cuenca, Moto,2.7,260.4,5.5,11.94,Entregado,
+RX00290,2026-09-23,Ibarra,Camioneta,19.0,222.0,4.6,12.55,Devuelto,2.0
+RX00291,2026-09-23,Quito,Camioneta,53.0,129.8,3.3,13.4,Entregado,3.0
+RX00292,2026-09-23,Ambato,Moto,2.6,8.5,0.9,3.11,Entregado,4.0
+RX00293,23/09/2026,cuenca,Moto,4.2,283.7,6.0 h,12.93,Entregado,
+RX00015,2026-09-01,Riobamba,Moto,2.5,56.8,4.5 h,4.79,retrasado,4.0
+RX00294,2026-09-23,Latacunga,Moto,5.7,45.6,1.3,4.78,Entregado,5.0
+RX00295,2026-09-23,Ambato,Moto,6.3,6.0,1.1,3.47,Entregado,
+RX00296,2026-09-23,Quito,Moto,4.7,132.0,3.6,7.68,Entregado,3.0
+RX00297,2026-09-23,Ambato,Moto,4.7,2.7,1.0,3.16,Entregado,
+RX00298,2026-09-23,Ambato,Moto,3.9,3.0,0.9,3.07,Entregado,4.0
+RX00299,2026-09-23,Ambato,Moto,1.5,16.8,1.3,3.27,Entregado,4.0
+RX00300,2026-09-23,Ambato,Moto,2.6,12.6,1.8,3.25,Entregado,5.0
+RX00301,2026-09-23,Ambato,Moto,7.6,3.4,1.0,3.53,Entregado,5.0
+RX00302,2026-09-23,Quito,Camioneta,5.8,132.2,3.0,7.82,Entregado,
+RX00303,23/09/2026,Ambato,Moto,1.7,10.2,1.1 h,3.06,Entregado,
+RX00304,2026-09-24,Riobamba,Camioneta,20.9,,1.8,6.84,Entregado,4.0
+RX00305,2026-09-24,Baños,Moto,11.4,41.8,1.6,5.33,Entregado,4.0
+RX00306,2026-09-24,Cuenca,Camioneta,2.8,263.6,5.8,12.06,Entregado,4.0
+RX00307,24/09/2026,Ambato,Camión,640.9,19.3,2.0,105.08,Entregado,4.0
+RX00308,2026-09-24,CUENCA,MOTO,5.1,284.7,6.8 h,13.08,Entregado,4.0
+RX00309,2026-09-24,Ambato,Moto,1.8,28.3,1.7,3.71,Entregado,5.0
+RX00310,2026-09-24,Ambato,Camioneta,19.8,13.2,1.0,5.34,Entregado,5.0
+RX00311,2026-09-24,Guayaquil,Camioneta,9.3,274.3,5.9,13.22,Entregado,
+RX00312,2026-09-24,Ambato,MOTO,3.5,22.7,,3.71,Entregado,4.0
+RX00313,2026-09-24,Ambato,Moto,5.9,24.4,2.1 h,4.06,Entregado,5.0
+RX00314,2026-09-24,Cuenca,camioneta,64.8,276.4,5.6,19.95,Entregado,5.0
+RX00315,2026-09-24,Ibarra,Moto,,224.5,5.0,10.62,Entregado,
+RX00084,06/09/2026,Baños,Moto,3.7,41.2,2.4,4.39,Entregado,
+RX00316,2026-09-25,Ibarra,Camioneta,0.7,242.0,9.2 h,11.05,Retrasado,
+RX00317,2026-09-25,Guayaquil,Moto,4.8,276.1,,12.74,En tránsito,5.0
+RX00318,2026-09-25,Cuenca,Camioneta,,264.7,5.3,22.84,Entregado ,4.0
+RX00319,2026-09-25,Quito,Moto,2.9,134.3,3.3,7.55,Devuelto,3.0
+RX00320,25/09/2026,Cuenca,Camioneta,12.0,287.6,5.8,14.01,Entregado,4.0
+RX00321,2026-09-25,Ambato,Camioneta ,15.3,12.9,,4.79,en tránsito,4.0
+RX00322,2026-09-25,Latacunga,Moto,4.9,49.0,1.8,4.8,ENTREGADO,
+RX00323,25/09/2026,Latacunga,Camioneta,0.5,47.2,2.2,4.21,Entregado,4.0
+RX00324,2026-09-25,Guayaquil,camión,540.4,288.9,6.1,102.46,Entregado,5.0
+RX00325,2026-09-25,RIOBAMBA,Camioneta,20.3,58.2,,6.97,Entregado,
+RX00326,2026-09-25,Ambato,Camioneta,35.5,6.0,0.8,6.97,Entregado,4.0
+RX00327,2026-09-26,Ambato,Moto,9.2,5.4,1.1,3.79,Entregado,4.0
+RX00328,2026-09-26,Guayaquil,Moto,9.2,297.2,6.7,14.01,Entregado,
+RX00329,2026-09-26,Ambato ,Camioneta,14.4,10.6,1.4,4.6,Entregado,4.0
+RX00330,2026-09-26,AMBATO,Moto,8.3,9.4,1.0,3.82,Entregado,
+RX00331,2026-09-26,Guayaquil,Moto,2.4,287.7,5.8,12.86,Entregado,5.0
+RX00332,2026-09-26,Cuenca,Camioneta,19.4,256.8,5.4,13.82,Entregado,
+RX00333,26/09/2026,Ambato,Moto,7.8,10.9,1.2,3.82,Entregado,5.0
+RX00334,2026-09-26,Guayaquil,Camioneta,20.2,288.5,6.7,15.02,Entregado,2.0
+RX00335,2026-09-26,Quito, Camioneta,,141.0,3.1,7.59,Devuelto,2.0
+RX00336,2026-09-26,Riobamba,Camioneta ,0.0,53.1,3.9,8.64,Retrasado,2.0
+RX00337,2026-09-26,Ambato,Moto,4.5,19.3,1.2,3.72,Entregado,5.0
+RX00338,2026-09-27,Guayaquil,Moto,1.7,274.7,6.2,12.32,Entregado,4.0
+RX00339,2026-09-27,Guayaquil,Moto,9.3,285.6,6.2,13.61,Entregado,
+RX00340,27/09/2026,Ibarra,Camioneta,11.1,245.9,5.0,12.44,Entregado,
+RX00341,2026-09-27,Ambato,Moto,0.9,5.3,1.6,,Entregado,
+RX00342,27/09/2026,Ambato ,Camioneta,16.7,22.5,1.7,5.29,Entregado,4.0
+RX00343,27/09/2026,Ambato,Camión,714.1,28.3,2.0,114.18,Entregado,4.0
+RX00344,2026-09-27, Quito,Camioneta,15.9,137.2,3.2,9.21,Entregado,5.0
+RX00345,27/09/2026,Quito,Moto,1.3,0.0,3.2,7.42,Entregado,4.0
+RX00346,2026-09-27,Ambato,Moto,14.8,12.2,1.6,4.7,Entregado,4.0
+RX00347,2026-09-27,Quito,Moto,3.0,138.0,3.7,7.69,Entregado,5.0
+RX00348,2026-09-27,Ambato,Moto,5.4,6.5,1.2,3.38,Entregado,
+RX00349,2026-09-27,Ibarra,Moto,1.6,242.2,5.3,11.17,Entregado,5.0
+RX00350,2026-09-27,Latacunga,Moto,1.9,50.7,1.5 h,4.5,Entregado,
+RX00351,27/09/2026,Quito,Moto,6.9,138.0,3.5,,Entregado,4.0
+RX00352,27/09/2026, Ibarra,Moto,10.1,225.4,4.7,11.6,Entregado,
+RX00353,2026-09-28,Guayaquil,Moto,12.3,286.3,6.2,14.0,Entregado,4.0
+RX00354,2026-09-28,Baños,Moto,11.8,40.9,1.7 h,5.35,Entregado,
+RX00355,2026-09-28,Quito,Moto,4.1,126.1,5.5,7.41,Retrasado,3.0
+RX00356,28/09/2026,Ambato,Camioneta,2.0,5.9,1.2,2.95,Devuelto,4.0
+RX00357,2026-09-28,Ambato,Moto,2.1,14.7,2.9,3.27, Retrasado,2.0
+RX00358,28/09/2026,Baños,Moto,1.9,41.5,1.6,4.18,Entregado,5.0
+RX00359,2026-09-28,Quito,Moto,2.0,138.4,6.4,7.58,Retrasado,
+RX00360,2026-09-28,Ambato,Moto,12.9,21.9,1.5,4.81,Entregado,4.0
+RX00361,2026-09-28,BAÑOS,Moto,3.2,37.9,1.5,4.21,Entregado,
+RX00362,2026-09-28,Ambato,Moto,2.0,25.3,2.1,3.63,Devuelto,2.0
+RX00363,2026-09-28,Ibarra,Camioneta,,227.6,5.1,10.66,Entregado,5.0
+RX00364,2026-09-28,Ambato,Moto,6.6,3.2,0.8,3.4,Entregado,4.0
+RX00365,2026-09-28,Ambato,Camioneta,18.0,3.8,0.7 h,4.79,Entregado,
+RX00366,2026-09-28,Riobamba,CAMIONETA,13.0,51.7,1.4,5.87,Entregado,4.0
+RX00367,2026-09-28, Ambato,Moto,1.1,19.3,2.4,3.31,entregado,4.0
+RX00368,28/09/2026,GUAYAQUIL,Moto,,279.5,5.8,12.71,Entregado,5.0
+RX00369,2026-09-28,Ambato,Camioneta,31.3,28.6,2.1,7.26,Entregado,
+RX00370,28/09/2026,Ambato,Camioneta,25.4,14.6,1.6 h,6.06,Entregado,3.0
+RX00371,2026-09-28,Latacunga,Camioneta,15.7,46.1,1.4 h,6.0,Entregado,
+RX00372,2026-09-28,Ambato,Moto,1.1,12.6,0.9,3.07,ENTREGADO,
+RX00373,2026-09-28,Riobamba,Camioneta,21.6,53.2,2.2,6.95,Entregado,
+RX00368,28/09/2026,GUAYAQUIL,Moto,,279.5,5.8,12.71,Entregado,5.0
+RX00374,2026-09-29,Latacunga,Camioneta,64.1,44.9,1.4,11.76,Entregado,
+RX00375,2026-09-29,Ambato,Moto,9.2,3.4,1.1,3.72,Devuelto,2.0
+RX00376,2026-09-29,Baños,camioneta,50.0,40.0,,9.9,En tránsito,4.0
+RX00377,2026-09-29,Ambato,Camioneta,37.2,24.7,1.9,7.83,Entregado,5.0
+RX00378,2026-09-29,Ibarra,Camioneta,7.2,240.7,5.4,11.79,Entregado,
+RX00379,2026-09-29,Cuenca,Camioneta,49.8,281.0,5.9 h,18.31,Entregado,
+RX00380,2026-09-29,Riobamba,Camioneta,,51.3,2.1,6.61,ENTREGADO,5.0
+RX00381,2026-09-29,Ambato,Moto,5.2,15.3,1.3,3.66,Entregado,
+RX00382,2026-09-29,Latacunga,MOTO,8.7,50.2,1.4,5.3,Entregado,3.0
+RX00383,2026-09-29,Ambato,Moto,0.4,7.2,0.9 h,2.8,Entregado,5.0
+RX00384,29/09/2026,Riobamba,Moto,3.1,58.6,1.7,4.92,Entregado,4.0
+RX00385,2026-09-29,Latacunga,Moto,0.6,47.8,3.7,4.24,Retrasado,5.0
+RX00386,29/09/2026,Baños,Moto,9.5,39.0,1.6,5.0,Entregado ,
+RX00387,2026-09-29,Ambato,Moto,9.5,20.8,2.0,4.37,Entregado,4.0
+RX00388,2026-09-30,Ambato, Moto,0.9,24.1,1.6,3.45,Entregado,
+RX00389,30/09/2026,Ambato,Moto,13.0,23.4,2.0,4.88,Entregado,3.0
+RX00390,2026-09-30,Cuenca,Moto,1.9,259.5,5.6,11.81,Entregado,3.0
+RX00391,2026-09-30,Ambato,Moto,5.9,15.7,1.0,3.76,Entregado,5.0
+RX00392,2026-09-30,Ambato,Moto,1.0,16.7,1.8 h,3.2,Entregado,
+RX00393,2026-09-30, Ambato,Moto,11.7,16.1,1.1,4.47,Entregado,4.0
+RX00394,2026-09-30,Baños,Camioneta,43.0,41.2,1.8 h,9.1,Entregado,3.0
+RX00395,2026-09-30,Ambato,Moto,2.6,16.7,1.7,3.4,Devuelto,1.0
+RX00396,2026-09-30,Guayaquil,MOTO,7.4,292.7,10.6,13.63,Retrasado,
+RX00397,2026-09-30,Guayaquil,Camioneta,16.9,292.3,6.5,14.76,Entregado,5.0
+RX00398,2026-09-30,Ibarra,Moto,7.2,229.2,4.9 h,11.39, Entregado,5.0
+RX00399,2026-09-30,Ibarra,Moto,4.8,241.1,10.3,11.51,Retrasado,3.0
+RX00400,2026-09-30,Ambato,Camioneta,19.6,19.0,,5.52,En tránsito,2.0
